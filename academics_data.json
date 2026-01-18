@@ -3,744 +3,882 @@
     "location": "UK",
     "lat": 54.0,
     "lon": -2.0,
-    "count": 122
+    "count": 120,
+    "type": "country"
   },
   {
     "location": "USA",
     "lat": 39.8,
     "lon": -98.5,
-    "count": 60
+    "count": 60,
+    "type": "country"
   },
   {
     "location": "Italy",
     "lat": 42.8,
     "lon": 12.5,
-    "count": 32
-  },
-  {
-    "location": "Newcastle, UK",
-    "lat": 54.9783,
-    "lon": -1.6178,
-    "count": 21
+    "count": 32,
+    "type": "country"
   },
   {
     "location": "Spain",
     "lat": 40.4,
     "lon": -3.7,
-    "count": 21
+    "count": 21,
+    "type": "country"
   },
   {
     "location": "London, UK",
     "lat": 51.5074,
     "lon": -0.1278,
-    "count": 19
+    "count": 20,
+    "type": "city"
   },
   {
     "location": "Sweden",
     "lat": 60.1,
     "lon": 18.6,
-    "count": 18
+    "count": 18,
+    "type": "country"
   },
   {
     "location": "Japan",
     "lat": 36.2,
     "lon": 138.2,
-    "count": 18
+    "count": 18,
+    "type": "country"
+  },
+  {
+    "location": "Newcastle, UK",
+    "lat": 54.9783,
+    "lon": -1.6178,
+    "count": 17,
+    "type": "city"
   },
   {
     "location": "Canada",
     "lat": 56.1,
     "lon": -106.3,
-    "count": 16
+    "count": 16,
+    "type": "country"
   },
   {
     "location": "France",
     "lat": 46.2,
     "lon": 2.2,
-    "count": 15
+    "count": 15,
+    "type": "country"
   },
   {
     "location": "Australia",
     "lat": -25.2,
     "lon": 133.7,
-    "count": 13
+    "count": 13,
+    "type": "country"
   },
   {
     "location": "Turkey",
     "lat": 38.9,
     "lon": 35.2,
-    "count": 12
+    "count": 12,
+    "type": "country"
   },
   {
     "location": "Reading, UK",
     "lat": 51.4543,
     "lon": -0.9781,
-    "count": 11
+    "count": 11,
+    "type": "city"
   },
   {
     "location": "Denmark",
     "lat": 56.2,
     "lon": 9.5,
-    "count": 11
+    "count": 11,
+    "type": "country"
   },
   {
     "location": "Finland",
     "lat": 61.9,
     "lon": 25.7,
-    "count": 11
+    "count": 11,
+    "type": "country"
   },
   {
     "location": "Belfast, UK",
     "lat": 54.5973,
     "lon": -5.9301,
-    "count": 9
+    "count": 9,
+    "type": "city"
   },
   {
     "location": "Copenhagen, Denmark",
     "lat": 55.6761,
     "lon": 12.5683,
-    "count": 9
+    "count": 9,
+    "type": "city"
   },
   {
     "location": "Norway",
     "lat": 60.4,
     "lon": 8.4,
-    "count": 9
+    "count": 9,
+    "type": "country"
   },
   {
     "location": "Milan, Italy",
     "lat": 45.4642,
     "lon": 9.19,
-    "count": 8
+    "count": 8,
+    "type": "city"
   },
   {
     "location": "Oslo, Norway",
     "lat": 59.9139,
     "lon": 10.7522,
-    "count": 8
+    "count": 8,
+    "type": "city"
   },
   {
     "location": "Oxford, UK",
     "lat": 51.752,
     "lon": -1.2577,
-    "count": 8
+    "count": 8,
+    "type": "city"
   },
   {
     "location": "India",
     "lat": 20.5,
     "lon": 78.9,
-    "count": 8
+    "count": 8,
+    "type": "country"
   },
   {
     "location": "Uppsala, Sweden",
     "lat": 59.8586,
     "lon": 17.6389,
-    "count": 7
+    "count": 7,
+    "type": "city"
   },
   {
     "location": "Barcelona, Spain",
     "lat": 41.3851,
     "lon": 2.1734,
-    "count": 7
+    "count": 7,
+    "type": "city"
   },
   {
     "location": "Netherlands",
     "lat": 52.1,
     "lon": 5.2,
-    "count": 7
+    "count": 7,
+    "type": "country"
   },
   {
     "location": "Germany",
     "lat": 51.1,
     "lon": 10.4,
-    "count": 7
+    "count": 7,
+    "type": "country"
   },
   {
     "location": "Madrid, Spain",
     "lat": 40.4168,
     "lon": -3.7038,
-    "count": 6
+    "count": 6,
+    "type": "city"
   },
   {
     "location": "Glasgow, UK",
     "lat": 55.8642,
     "lon": -4.2518,
-    "count": 6
+    "count": 6,
+    "type": "city"
   },
   {
     "location": "Tokyo, Japan",
     "lat": 35.6762,
     "lon": 139.6503,
-    "count": 6
+    "count": 6,
+    "type": "city"
   },
   {
     "location": "Stockholm, Sweden",
     "lat": 59.3293,
     "lon": 18.0686,
-    "count": 6
+    "count": 6,
+    "type": "city"
   },
   {
     "location": "Colombia",
     "lat": 4.5,
     "lon": -74.2,
-    "count": 6
+    "count": 6,
+    "type": "country"
   },
   {
     "location": "Exeter, UK",
     "lat": 50.7184,
     "lon": -3.5339,
-    "count": 5
+    "count": 5,
+    "type": "city"
   },
   {
     "location": "Sydney, NSW, Australia",
     "lat": -33.8688,
     "lon": 151.2093,
-    "count": 5
+    "count": 5,
+    "type": "city"
   },
   {
     "location": "York, UK",
     "lat": 53.96,
     "lon": -1.0873,
-    "count": 5
+    "count": 5,
+    "type": "city"
   },
   {
     "location": "Jyväskylä, Finland",
     "lat": 62.2426,
     "lon": 25.7473,
-    "count": 5
+    "count": 5,
+    "type": "city"
   },
   {
     "location": "Belgium",
     "lat": 50.5,
     "lon": 4.4,
-    "count": 5
+    "count": 5,
+    "type": "country"
   },
   {
     "location": "Paris, France",
     "lat": 48.8566,
     "lon": 2.3522,
-    "count": 4
+    "count": 4,
+    "type": "city"
   },
   {
     "location": "Edinburgh, UK",
     "lat": 55.9533,
     "lon": -3.1883,
-    "count": 4
+    "count": 4,
+    "type": "city"
   },
   {
     "location": "New York, NY, USA",
     "lat": 40.7128,
     "lon": -74.006,
-    "count": 4
+    "count": 4,
+    "type": "city"
   },
   {
     "location": "Portugal",
     "lat": 39.3,
     "lon": -8.2,
-    "count": 4
+    "count": 4,
+    "type": "country"
   },
   {
     "location": "South Africa",
     "lat": -30.5,
     "lon": 22.9,
-    "count": 4
+    "count": 4,
+    "type": "country"
   },
   {
     "location": "Lancaster, UK",
     "lat": 54.0466,
     "lon": -2.8007,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Leeds, UK",
     "lat": 53.8008,
     "lon": -1.5491,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Singapore, Singapore",
     "lat": 1.3521,
     "lon": 103.8198,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Florence, Italy",
     "lat": 43.7696,
     "lon": 11.2558,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Cambridge, MA, USA",
     "lat": 42.3736,
     "lon": -71.1097,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Rome, Italy",
     "lat": 41.9028,
     "lon": 12.4964,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Bogotá, Colombia",
     "lat": 4.711,
     "lon": -74.0721,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Birmingham, UK",
     "lat": 52.4862,
     "lon": -1.8904,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Kyoto, Japan",
     "lat": 35.0116,
     "lon": 135.7681,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Hong Kong, Hong Kong",
     "lat": 22.3193,
     "lon": 114.1694,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Nottingham, UK",
     "lat": 52.9548,
     "lon": -1.1581,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Istanbul, Turkey",
     "lat": 41.0082,
     "lon": 28.9784,
-    "count": 3
+    "count": 3,
+    "type": "city"
   },
   {
     "location": "Brazil",
     "lat": -14.2,
     "lon": -51.9,
-    "count": 3
+    "count": 3,
+    "type": "country"
   },
   {
     "location": "Singapore",
     "lat": 1.3,
     "lon": 103.8,
-    "count": 3
+    "count": 3,
+    "type": "country"
   },
   {
     "location": "New Zealand",
     "lat": -40.9,
     "lon": 174.8,
-    "count": 3
+    "count": 3,
+    "type": "country"
   },
   {
     "location": "Poland",
     "lat": 51.9,
     "lon": 19.1,
-    "count": 3
+    "count": 3,
+    "type": "country"
   },
   {
     "location": "Hong Kong",
     "lat": 22.3,
     "lon": 114.1,
-    "count": 3
+    "count": 3,
+    "type": "country"
   },
   {
     "location": "Salisbury, MD, USA",
     "lat": 38.3607,
     "lon": -75.5994,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "São Paulo, Brazil",
     "lat": -23.5505,
     "lon": -46.6333,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Bologna, Italy",
     "lat": 44.4949,
     "lon": 11.3426,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Gothenburg, Sweden",
     "lat": 57.7089,
     "lon": 11.9746,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Lille, France",
     "lat": 50.6292,
     "lon": 3.0573,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Cambridge, UK",
     "lat": 52.2053,
     "lon": 0.1218,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Bristol, UK",
     "lat": 51.4545,
     "lon": -2.5879,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Ghent, Belgium",
     "lat": 51.0543,
     "lon": 3.7174,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Osaka, Japan",
     "lat": 34.6937,
     "lon": 135.5023,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Philadelphia, PA, USA",
     "lat": 39.9526,
     "lon": -75.1652,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Venice, Italy",
     "lat": 45.4408,
     "lon": 12.3155,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Colchester, UK",
     "lat": 51.886,
     "lon": 0.9035,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Montreal, Canada",
     "lat": 45.5017,
     "lon": -73.5673,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Melbourne, Australia",
     "lat": -37.8136,
     "lon": 144.9631,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Naples, Italy",
     "lat": 40.8518,
     "lon": 14.2681,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Chapel Hill, NC, USA",
     "lat": 35.9132,
     "lon": -79.0558,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Warsaw, Poland",
     "lat": 52.2297,
     "lon": 21.0122,
-    "count": 2
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Nantes, France",
+    "lat": 47.2184,
+    "lon": -1.5536,
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Manchester, UK",
     "lat": 53.4808,
     "lon": -2.2426,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Helsinki, Finland",
     "lat": 60.1699,
     "lon": 24.9384,
-    "count": 2
+    "count": 2,
+    "type": "city"
   },
   {
     "location": "Czech Republic",
     "lat": 49.8,
     "lon": 15.4,
-    "count": 2
+    "count": 2,
+    "type": "country"
   },
   {
     "location": "Greece",
     "lat": 39.0,
     "lon": 21.8,
-    "count": 2
+    "count": 2,
+    "type": "country"
   },
   {
     "location": "Framingham, MA, USA",
     "lat": 42.2793,
     "lon": -71.4162,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Covilhã, Portugal",
     "lat": 40.2806,
     "lon": -7.5036,
-    "count": 1
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Barranquilla, Colombia",
+    "lat": 10.9685,
+    "lon": -74.7813,
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Bergen, Norway",
     "lat": 60.3913,
     "lon": 5.3221,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Padua, Italy",
     "lat": 44.4184,
     "lon": 11.8811,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Brisbane, Australia",
     "lat": -27.4698,
     "lon": 153.0251,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Prague, Czech Republic",
     "lat": 50.0755,
     "lon": 14.4378,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Rotterdam, Netherlands",
     "lat": 51.9225,
     "lon": 4.47917,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Columbus, OH, USA",
     "lat": 39.9612,
     "lon": -82.9988,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Canberra, Australia",
     "lat": -35.2809,
     "lon": 149.13,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Coventry, UK",
     "lat": 52.4068,
     "lon": -1.5197,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Amsterdam, Netherlands",
     "lat": 52.3676,
     "lon": 4.9041,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Brighton, UK",
     "lat": 50.8225,
     "lon": -0.1372,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Austin, TX, USA",
     "lat": 30.2672,
     "lon": -97.7431,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Leicester, UK",
     "lat": 52.6369,
     "lon": -1.1398,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Toulouse, France",
     "lat": 43.6047,
     "lon": 1.4442,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Kobe, Japan",
     "lat": 34.6901,
     "lon": 135.1955,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Lund, Sweden",
     "lat": 55.7047,
     "lon": 13.191,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Maastricht, Netherlands",
     "lat": 50.8514,
     "lon": 5.6909,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Atlanta, GA, USA",
     "lat": 33.749,
     "lon": -84.388,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Lyon, France",
     "lat": 45.764,
     "lon": 4.8357,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Sheffield, UK",
     "lat": 53.3811,
     "lon": -1.4701,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Ankara, Turkey",
     "lat": 39.9334,
     "lon": 32.8597,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Santiago, Chile",
     "lat": -33.4489,
     "lon": -70.6693,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Munich, Germany",
     "lat": 48.1351,
     "lon": 11.582,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Baltimore, MD, USA",
     "lat": 39.2904,
     "lon": -76.6122,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Liverpool, UK",
     "lat": 53.4084,
     "lon": -2.9916,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Nagoya, Japan",
     "lat": 35.1815,
     "lon": 136.9066,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Lisbon, Portugal",
     "lat": 38.7223,
     "lon": -9.1393,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Mumbai, India",
     "lat": 19.076,
     "lon": 72.8777,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Charlottesville, VA, USA",
     "lat": 38.0293,
     "lon": -78.4767,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Grenoble, France",
     "lat": 45.1885,
     "lon": 5.7245,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Stirling, UK",
     "lat": 56.1165,
     "lon": -3.9369,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Antwerp, Belgium",
     "lat": 51.2194,
     "lon": 4.4025,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Turin, Italy",
     "lat": 45.0703,
     "lon": 7.6869,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Leuven, Belgium",
     "lat": 50.8798,
     "lon": 4.7005,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Stanford, CA, USA",
     "lat": 37.4275,
     "lon": -122.1697,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Boston, MA, USA",
     "lat": 42.3601,
     "lon": -71.0589,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Turku, Finland",
     "lat": 60.4518,
     "lon": 22.2666,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Johannesburg, South Africa",
     "lat": -26.2041,
     "lon": 28.0473,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Vancouver, Canada",
     "lat": 49.2827,
     "lon": -123.1207,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "Los Angeles, CA, USA",
     "lat": 34.0522,
     "lon": -118.2437,
-    "count": 1
+    "count": 1,
+    "type": "city"
   },
   {
     "location": "China",
     "lat": 35.8,
     "lon": 104.1,
-    "count": 1
+    "count": 1,
+    "type": "country"
   },
   {
     "location": "Chile",
     "lat": -35.6,
     "lon": -71.5,
-    "count": 1
+    "count": 1,
+    "type": "country"
   },
   {
     "location": "Switzerland",
     "lat": 46.8,
     "lon": 8.2,
-    "count": 1
+    "count": 1,
+    "type": "country"
   },
   {
     "location": "Ukraine",
     "lat": 48.4,
     "lon": 31.2,
-    "count": 1
+    "count": 1,
+    "type": "country"
   }
 ]
