@@ -35,7 +35,9 @@
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.2);
             z-index: 1000;
-            max-width: 350px;
+            max-width: 380px;
+            max-height: calc(100vh - 40px);
+            overflow-y: auto;
         }
         
         .info-panel h1 {
@@ -138,11 +140,16 @@
         @media (max-width: 768px) {
             .info-panel {
                 max-width: calc(100vw - 80px);
-                font-size: 12px;
+                font-size: 11px;
+                max-height: 50vh;
             }
             
             .info-panel h1 {
                 font-size: 16px;
+            }
+            
+            .info-panel p {
+                font-size: 11px;
             }
         }
     </style>
@@ -156,6 +163,11 @@
         <div class="stats">
             <div class="stat-row" id="total-academics">Loading...</div>
             <div class="stat-row" id="total-locations"></div>
+        </div>
+        <div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #bdc3c7; font-size: 12px; color: #7f8c8d; line-height: 1.5;">
+            <p style="margin-bottom: 10px;">This map was compiled from public data sources available online, such as Google Scholar and university pages and other academic fora.</p>
+            <p style="margin-bottom: 8px;">If you want to know if you are included in the map, or if you want to make your name, university and research interests publicly available on the map, please fill in this form: <a href="https://forms.gle/YourFormLinkHere" target="_blank" rel="noopener noreferrer" style="color: #3498db; text-decoration: none; font-weight: 600;">MOH Map – Fill out form</a>.</p>
+            <p style="margin-bottom: 0;">You can also withdraw your information via the same form.</p>
         </div>
     </div>
     
@@ -241,8 +253,12 @@
                 
                 let totalAcademics = 0;
                 
+                // Calculate total from country markers only (they're aggregates)
+                // to avoid double-counting with city markers
+                const countryMarkers = data.filter(item => item.type === 'country');
+                totalAcademics = countryMarkers.reduce((sum, item) => sum + item.count, 0);
+                
                 data.forEach(location => {
-                    totalAcademics += location.count;
                     
                     // Calculate marker size
                     const size = getMarkerSize(location.count);

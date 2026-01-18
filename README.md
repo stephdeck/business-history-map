@@ -22,22 +22,42 @@ https://yourusername.github.io/business-history-map/
 
 ## Data Summary
 
-- **422** total business historians (from detailed directory)
-- **119** locations worldwide (cities and countries)
-- **92** city-level locations with precision data
-- **27** country-level aggregates (where city data unavailable)
-- **Top 5 locations:**
-  1. USA (country-level): 38
-  2. Newcastle, UK: 21
-  3. London, UK: 19
-  4. Canada (country-level): 13
-  5. Reading, UK: 11
+- **432** business historians with country data (from 468 total records)
+- **126** markers displayed on map
+  - **95** city-level markers (micro view - specific cities)
+  - **31** country-level markers (macro view - country aggregates)
+  
+**How counting works:**
+- Each person counted ONCE in the dataset (no double-counting)
+- City markers show count for that specific city (e.g., "London, UK: 20")
+- Country markers show TOTAL for entire country (e.g., "UK: 120" includes London's 20 + all other UK cities)
+- **Total displayed: 432** (sum of country markers, which already include city counts)
+
+**Top 10 markers:**
+1. UK (country total): 120
+2. USA (country total): 60
+3. Italy (country total): 32
+4. Spain (country total): 21
+5. London, UK (city detail): 20
+6. Sweden (country total): 18
+7. Japan (country total): 18
+8. Newcastle, UK (city detail): 17
+9. Canada (country total): 16
+10. France (country total): 15
 
 ## Quick Start - Deploy to GitHub Pages
 
 ### Prerequisites
 - GitHub account (free at github.com)
 - These 2 files: `index.html` and `academics_data.json`
+- **Important:** Edit `index.html` to replace the form URL placeholder with your actual Google Form link
+
+### Before Deployment
+Open `index.html` in a text editor and find this line (around line 153):
+```html
+<a href="https://forms.gle/YourFormLinkHere" target="_blank"
+```
+Replace `YourFormLinkHere` with your actual Google Form ID.
 
 ### Deployment Steps (10 minutes)
 
@@ -70,8 +90,8 @@ https://yourusername.github.io/business-history-map/
 
 ## Files
 
-- `index.html` (10 KB) - Complete website
-- `academics_data.json` (12 KB) - Location counts with city-level detail
+- `index.html` (10 KB) - Complete website with corrected counting logic
+- `academics_data.json` (15 KB) - 126 markers (95 cities + 31 country aggregates)
 - `README.md` - This file
 
 ## Updating Data
@@ -105,11 +125,22 @@ To update counts:
 - Institutional affiliations
 - Any personally identifiable information
 
-**Granularity:**
-- City-level precision where available (92 cities)
-- Country-level where city data not available (27 countries)
+**Data source:**
+- Compiled from public data sources (Google Scholar, university pages, academic fora)
+- BH_AcademicDirectory_Jan26.xlsx "List" sheet (468 total, 432 with country)
 
-**Data source:** Derived from BH_AcademicDirectory_Jan26.xlsx "List" sheet
+**Opt-in/Opt-out:**
+- Users can request inclusion of their details via form (link in map)
+- Users can also request withdrawal via the same form
+- Form link displayed on the map: "MOH Map – Fill out form"
+
+**Granularity:**
+- City-level markers for specific locations (95 cities)
+- Country-level aggregate markers showing total for entire country (31 countries)
+- Example: Click "UK" marker → see 120 (all UK historians). Zoom in → see individual cities like "London: 20", "Newcastle: 17"
+- **No double-counting**: The 20 in London are part of the 120 in UK
+
+**Data source:** BH_AcademicDirectory_Jan26.xlsx "List" sheet (468 total, 432 with country)
 
 ## Browser Support
 
@@ -150,19 +181,40 @@ If you encounter issues:
 
 ## Customization
 
+### Update Form Link
+
+**Required before deployment:** Replace the placeholder form URL in `index.html`.
+
+Find line ~153:
+```html
+<a href="https://forms.gle/YourFormLinkHere" target="_blank"
+```
+
+Replace with your actual Google Form short URL:
+```html
+<a href="https://forms.gle/abc123xyz" target="_blank"
+```
+
+### Other Customizations
+
 To customize the map, edit `index.html`:
+
+**Update form link (IMPORTANT):**
+Line 169: Replace `https://forms.gle/YourFormLinkHere` with your actual Google Form link
+- This is the opt-in/opt-out form for academics
+- Create your form first, then update the link
 
 **Change title:**
 Line 6: `<title>Your Title Here</title>`
 
 **Change heading:**
-Line 148: `<h1>Your Heading</h1>`
+Line 161: `<h1>Your Heading</h1>`
 
 **Adjust map center:**
-Line 202: `center: [35, 15],` (latitude, longitude)
+Line ~220: `center: [35, 15],` (latitude, longitude)
 
 **Change zoom level:**
-Line 203: `zoom: 3,` (2=world, 5=continent, 10=city)
+Line ~221: `zoom: 3,` (2=world, 5=continent, 10=city)
 
 **Modify marker colors:**
 Lines 110-123: CSS color properties

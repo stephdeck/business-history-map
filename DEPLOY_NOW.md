@@ -16,12 +16,13 @@ You have **5 files** ready to deploy:
    - Privacy-focused design
    - No personal data embedded
 
-2. **academics_data.json** (12 KB)
-   - Aggregated counts by location
-   - 119 locations worldwide (92 cities, 27 countries)
-   - 422 total business historians
+2. **academics_data.json** (15 KB)
+   - 126 markers total (95 cities + 31 country aggregates)
+   - 432 unique business historians (no double-counting)
    - **No names, emails, or affiliations**
-   - City-level detail where available
+   - Dual-layer: city detail + country totals
+   - Example: "UK: 120" (entire country) AND "London, UK: 20" (city detail)
+   - City counts are PART OF country totals (20 from London is included in UK's 120)
 
 ### Documentation (Optional - for reference):
 3. **README.md** (4.5 KB)
@@ -63,6 +64,16 @@ You have **5 files** ready to deploy:
 
 ## 🚀 Deploy in 3 Steps
 
+**⚠️ FIRST:** Before uploading, edit `index.html` to add your Google Form URL.
+
+Open `index.html` in any text editor (Notepad, TextEdit, VS Code) and find line ~153:
+```html
+<a href="https://forms.gle/YourFormLinkHere" target="_blank"
+```
+Replace `YourFormLinkHere` with your actual form short link (e.g., `abc123xyz`).
+
+Save the file, then proceed:
+
 ### Step 1: Upload to GitHub (5 minutes)
 1. Go to https://github.com
 2. Create account (or log in)
@@ -73,6 +84,11 @@ You have **5 files** ready to deploy:
 7. Click "uploading an existing file"
 8. Drag **index.html** and **academics_data.json**
 9. Click "Commit changes"
+
+**⚠️ BEFORE STEP 2:** Edit `index.html` and update the form link!
+- Line 169: Replace `https://forms.gle/YourFormLinkHere` with your actual Google Form URL
+- This is where academics can opt-in or opt-out
+- You can edit directly in GitHub after uploading (click file → pencil icon)
 
 ### Step 2: Enable Pages (1 minute)
 1. Click "Settings" tab
@@ -97,28 +113,31 @@ You have **5 files** ready to deploy:
 
 Based on BH_AcademicDirectory_Jan26.xlsx "List" sheet:
 
-**Total:** 422 business historians  
-**Locations:** 119 worldwide (92 cities + 27 countries)  
-**Granularity:** City-level where available, country-level otherwise
+**Total:** 432 business historians (from 468 records with country data)  
+**Markers:** 126 total (95 cities + 31 country aggregates)  
+**Display total:** 432 (sum of country markers - no double-counting)
 
-**Top 10 by count:**
-1. USA (country-level): 38 historians
-2. Newcastle, UK: 21 historians
-3. London, UK: 19 historians
-4. Canada (country-level): 13 historians
-5. Reading, UK: 11 historians
-6. Italy (country-level): 10 historians
-7. Belfast, UK: 9 historians
-8. Copenhagen, Denmark: 9 historians
-9. Milan, Italy: 8 historians
-10. Oslo, Norway: 8 historians
+**How it works:**
+- Each person counted ONCE
+- City markers = count for specific city only
+- Country markers = TOTAL for entire country (includes all city counts)
+- Map shows 432 total by summing country markers
 
-**Geographic breakdown:**
-- City-level precision: 92 locations
-- Country-level aggregates: 27 locations
-- Detailed UK locations: 47 cities
-- Detailed USA locations: 22 cities/states
-- European cities: 35+
+**Top 10 markers:**
+1. UK (country): 120 historians
+2. USA (country): 60 historians
+3. Italy (country): 32 historians
+4. Spain (country): 21 historians
+5. London, UK (city): 20 historians ← part of UK's 120
+6. Sweden (country): 18 historians
+7. Japan (country): 18 historians
+8. Newcastle, UK (city): 17 historians ← part of UK's 120
+9. Canada (country): 16 historians
+10. France (country): 15 historians
+
+**Key insight:**
+- London (20) + Newcastle (17) + other UK cities = UK total (120)
+- No double-counting: city counts are subsets of country counts
 
 ---
 
@@ -181,10 +200,12 @@ This map is **safe for public deployment**:
 ### Immediate Actions:
 1. ✅ Test your URL in multiple browsers
 2. ✅ Test on mobile device
-3. ✅ Verify markers appear (should see 119 locations)
-4. ✅ Check total shows 422 historians
-5. ✅ Click markers to test popups - verify city names shown where available
-6. ✅ Zoom in to see city-level detail separation
+3. ✅ Verify markers appear (should see 126 total: cities + countries)
+4. ✅ **Check total shows 432 historians** (NOT 700+ - that means double-counting error)
+5. ✅ Verify both city AND country markers visible
+6. ✅ Click country marker (e.g., "UK") - should show 120 (entire country)
+7. ✅ Click city marker (e.g., "London, UK") - should show 20 (just that city)
+8. ✅ Understand: London's 20 is PART OF UK's 120 (not additional)
 
 ### Share Your Map:
 - Add to your university website
@@ -295,10 +316,12 @@ After deployment:
 
 - [ ] URL works
 - [ ] Map displays
-- [ ] 422 historians shown
-- [ ] 119 locations visible
-- [ ] City names visible where available (e.g., "Newcastle, UK" not just "UK")
-- [ ] Markers clickable
+- [ ] **432 historians shown in info panel** (critical - should NOT be 700+)
+- [ ] 126 markers visible (mix of cities and countries)
+- [ ] Country markers show aggregate totals (e.g., "UK: 120")
+- [ ] City markers show specific counts (e.g., "London, UK: 20")
+- [ ] Understand city counts are PART OF country totals
+- [ ] Both marker types clickable and display correctly
 - [ ] Mobile tested
 - [ ] URL shared
 
