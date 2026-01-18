@@ -553,9 +553,23 @@
     "type": "country"
   },
   {
+    "location": "Malaysia",
+    "lat": 4.2105,
+    "lon": 101.9758,
+    "count": 2,
+    "type": "country"
+  },
+  {
     "location": "Greece",
     "lat": 39.0,
     "lon": 21.8,
+    "count": 2,
+    "type": "country"
+  },
+  {
+    "location": "Thailand",
+    "lat": 15.87,
+    "lon": 100.9925,
     "count": 2,
     "type": "country"
   },
@@ -581,6 +595,13 @@
     "type": "city"
   },
   {
+    "location": "Nicosia, Cyprus",
+    "lat": 35.1856,
+    "lon": 33.3823,
+    "count": 1,
+    "type": "city"
+  },
+  {
     "location": "Bergen, Norway",
     "lat": 60.3913,
     "lon": 5.3221,
@@ -598,6 +619,13 @@
     "location": "Brisbane, Australia",
     "lat": -27.4698,
     "lon": 153.0251,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "San Salvador, El Salvador",
+    "lat": 13.6929,
+    "lon": -89.2182,
     "count": 1,
     "type": "city"
   },
@@ -696,6 +724,13 @@
     "location": "Atlanta, GA, USA",
     "lat": 33.749,
     "lon": -84.388,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Dhaka, Bangladesh",
+    "lat": 23.8103,
+    "lon": 90.4125,
     "count": 1,
     "type": "city"
   },
@@ -854,6 +889,48 @@
     "type": "city"
   },
   {
+    "location": "Cyprus",
+    "lat": 35.1264,
+    "lon": 33.4299,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "El Salvador",
+    "lat": 13.7942,
+    "lon": -88.8965,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Zimbabwe",
+    "lat": -19.0154,
+    "lon": 29.1549,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Vietnam",
+    "lat": 14.0583,
+    "lon": 108.2772,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Bangladesh",
+    "lat": 23.685,
+    "lon": 90.3563,
+    "count": 1,
+    "type": "country"
+  },
+  {
     "location": "China",
     "lat": 35.8,
     "lon": 104.1,
@@ -868,9 +945,23 @@
     "type": "country"
   },
   {
+    "location": "Nigeria",
+    "lat": 9.082,
+    "lon": 8.6753,
+    "count": 1,
+    "type": "country"
+  },
+  {
     "location": "Switzerland",
     "lat": 46.8,
     "lon": 8.2,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Peru",
+    "lat": -9.19,
+    "lon": -75.0152,
     "count": 1,
     "type": "country"
   },
