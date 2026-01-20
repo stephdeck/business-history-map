@@ -29,7 +29,7 @@
         .info-panel {
             position: absolute;
             top: 10px;
-            left: 200px;
+            left: 300px;
             background: white;
             padding: 20px;
             border-radius: 8px;
@@ -291,12 +291,12 @@
                 
                 data.forEach(location => {
                     
-                    // Calculate marker size - make individuals larger!
+                    // Calculate marker size - individuals same as small dots
                     let size, markerClass;
                     
                     if (location.type === 'individual') {
-                        // Individual markers are larger and distinctive
-                        size = 35;  // Bigger than regular "1" markers
+                        // Individual markers same size as small aggregates
+                        size = 25;  // Same as regular small markers
                         markerClass = 'individual-marker';
                     } else {
                         size = getMarkerSize(location.count);

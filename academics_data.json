@@ -297,7 +297,7 @@
     "location": "Newcastle, UK",
     "lat": 54.9783,
     "lon": -1.6178,
-    "count": 16,
+    "count": 17,
     "type": "city"
   },
   {
@@ -315,16 +315,16 @@
     "type": "city"
   },
   {
-    "location": "Oxford, UK",
-    "lat": 51.752,
-    "lon": -1.2577,
-    "count": 8,
-    "type": "city"
-  },
-  {
     "location": "Copenhagen, Denmark",
     "lat": 55.6761,
     "lon": 12.5683,
+    "count": 9,
+    "type": "city"
+  },
+  {
+    "location": "Oxford, UK",
+    "lat": 51.752,
+    "lon": -1.2577,
     "count": 8,
     "type": "city"
   },
@@ -364,6 +364,13 @@
     "type": "city"
   },
   {
+    "location": "Birmingham, UK",
+    "lat": 52.4862,
+    "lon": -1.8904,
+    "count": 3,
+    "type": "city"
+  },
+  {
     "location": "Cardiff, UK",
     "lat": 51.4816,
     "lon": -3.1791,
@@ -395,13 +402,6 @@
     "location": "Liverpool, UK",
     "lat": 53.4084,
     "lon": -2.9916,
-    "count": 1,
-    "type": "city"
-  },
-  {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
     "count": 1,
     "type": "city"
   },
