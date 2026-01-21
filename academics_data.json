@@ -168,13 +168,6 @@
     "type": "country"
   },
   {
-    "location": "Hong Kong",
-    "lat": 22.3,
-    "lon": 114.1,
-    "count": 3,
-    "type": "city"
-  },
-  {
     "location": "Czech Republic",
     "lat": 49.8,
     "lon": 15.4,
@@ -403,6 +396,13 @@
     "lat": 53.4084,
     "lon": -2.9916,
     "count": 1,
+    "type": "city"
+  },
+   {
+    "location": "Hong Kong, China",
+    "lat": 22.3,
+    "lon": 114.1,
+    "count": 3,
     "type": "city"
   },
   {
