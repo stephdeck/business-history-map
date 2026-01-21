@@ -172,7 +172,7 @@
     "lat": 22.3,
     "lon": 114.1,
     "count": 3,
-    "type": "country"
+    "type": "city"
   },
   {
     "location": "Czech Republic",
@@ -248,7 +248,7 @@
     "location": "China",
     "lat": 35.8,
     "lon": 104.1,
-    "count": 1,
+    "count": 4,
     "type": "country"
   },
   {
