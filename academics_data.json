@@ -3,112 +3,168 @@
     "location": "UK",
     "lat": 54.0,
     "lon": -2.0,
-    "count": 119,
+    "count": 281,
     "type": "country"
   },
   {
     "location": "USA",
     "lat": 39.8,
     "lon": -98.5,
-    "count": 60,
+    "count": 104,
     "type": "country"
   },
   {
     "location": "Italy",
     "lat": 42.8,
     "lon": 12.5,
-    "count": 33,
+    "count": 78,
     "type": "country"
   },
   {
     "location": "Spain",
     "lat": 40.4,
     "lon": -3.7,
-    "count": 21,
-    "type": "country"
-  },
-  {
-    "location": "Sweden",
-    "lat": 60.1,
-    "lon": 18.6,
-    "count": 18,
-    "type": "country"
-  },
-  {
-    "location": "Japan",
-    "lat": 36.2,
-    "lon": 138.2,
-    "count": 18,
-    "type": "country"
-  },
-  {
-    "location": "Canada",
-    "lat": 56.1,
-    "lon": -106.3,
-    "count": 16,
+    "count": 70,
     "type": "country"
   },
   {
     "location": "France",
     "lat": 46.2,
     "lon": 2.2,
-    "count": 15,
+    "count": 45,
     "type": "country"
   },
   {
     "location": "Australia",
     "lat": -25.2,
     "lon": 133.7,
-    "count": 13,
+    "count": 41,
     "type": "country"
   },
   {
-    "location": "Turkey",
-    "lat": 38.9,
-    "lon": 35.2,
-    "count": 12,
-    "type": "country"
-  },
-  {
-    "location": "Denmark",
-    "lat": 56.2,
-    "lon": 9.5,
-    "count": 11,
-    "type": "country"
-  },
-  {
-    "location": "Finland",
-    "lat": 61.9,
-    "lon": 25.7,
-    "count": 11,
-    "type": "country"
-  },
-  {
-    "location": "Norway",
-    "lat": 60.4,
-    "lon": 8.4,
-    "count": 9,
-    "type": "country"
-  },
-  {
-    "location": "India",
-    "lat": 20.5,
-    "lon": 78.9,
-    "count": 8,
-    "type": "country"
-  },
-  {
-    "location": "Netherlands",
-    "lat": 52.1,
-    "lon": 5.2,
-    "count": 7,
+    "location": "Sweden",
+    "lat": 60.1,
+    "lon": 18.6,
+    "count": 40,
     "type": "country"
   },
   {
     "location": "Germany",
     "lat": 51.1,
     "lon": 10.4,
+    "count": 38,
+    "type": "country"
+  },
+  {
+    "location": "Canada",
+    "lat": 56.1,
+    "lon": -106.3,
+    "count": 32,
+    "type": "country"
+  },
+  {
+    "location": "Japan",
+    "lat": 36.2,
+    "lon": 138.2,
+    "count": 30,
+    "type": "country"
+  },
+  {
+    "location": "Denmark",
+    "lat": 56.2,
+    "lon": 9.5,
+    "count": 26,
+    "type": "country"
+  },
+  {
+    "location": "The Netherlands",
+    "lat": 52.1,
+    "lon": 5.2,
+    "count": 23,
+    "type": "country"
+  },
+  {
+    "location": "Finland",
+    "lat": 61.9,
+    "lon": 25.7,
+    "count": 21,
+    "type": "country"
+  },
+  {
+    "location": "Norway",
+    "lat": 60.4,
+    "lon": 8.4,
+    "count": 19,
+    "type": "country"
+  },
+  {
+    "location": "Turkey",
+    "lat": 38.9,
+    "lon": 35.2,
+    "count": 17,
+    "type": "country"
+  },
+  {
+    "location": "Belgium",
+    "lat": 50.5,
+    "lon": 4.4,
+    "count": 13,
+    "type": "country"
+  },
+  {
+    "location": "Portugal",
+    "lat": 39.3,
+    "lon": -8.2,
+    "count": 11,
+    "type": "country"
+  },
+  {
+    "location": "India",
+    "lat": 20.5,
+    "lon": 78.9,
+    "count": 11,
+    "type": "country"
+  },
+  {
+    "location": "China",
+    "lat": 35.8,
+    "lon": 104.1,
+    "count": 13,
+    "type": "country"
+  },
+  {
+    "location": "Switzerland",
+    "lat": 46.8,
+    "lon": 8.2,
     "count": 7,
+    "type": "country"
+  },
+  {
+    "location": "Malaysia",
+    "lat": 4.2,
+    "lon": 101.9,
+    "count": 6,
+    "type": "country"
+  },
+  {
+    "location": "Netherlands",
+    "lat": 52.1,
+    "lon": 5.2,
+    "count": 6,
+    "type": "country"
+  },
+  {
+    "location": "South Africa",
+    "lat": -30.5,
+    "lon": 22.9,
+    "count": 6,
+    "type": "country"
+  },
+  {
+    "location": "Poland",
+    "lat": 51.9,
+    "lon": 19.1,
+    "count": 6,
     "type": "country"
   },
   {
@@ -119,31 +175,31 @@
     "type": "country"
   },
   {
-    "location": "Belgium",
-    "lat": 50.5,
-    "lon": 4.4,
-    "count": 5,
-    "type": "country"
-  },
-  {
-    "location": "Portugal",
-    "lat": 39.3,
-    "lon": -8.2,
-    "count": 4,
-    "type": "country"
-  },
-  {
-    "location": "South Africa",
-    "lat": -30.5,
-    "lon": 22.9,
-    "count": 4,
+    "location": "Greece",
+    "lat": 39.0,
+    "lon": 21.8,
+    "count": 6,
     "type": "country"
   },
   {
     "location": "Brazil",
     "lat": -14.2,
     "lon": -51.9,
-    "count": 3,
+    "count": 5,
+    "type": "country"
+  },
+  {
+    "location": "Czech Republic",
+    "lat": 49.8,
+    "lon": 15.4,
+    "count": 4,
+    "type": "country"
+  },
+  {
+    "location": "Chile",
+    "lat": -35.6,
+    "lon": -71.5,
+    "count": 4,
     "type": "country"
   },
   {
@@ -154,121 +210,121 @@
     "type": "country"
   },
   {
+    "location": "Hungary",
+    "lat": 47.1,
+    "lon": 19.5,
+    "count": 2,
+    "type": "country"
+  },
+  {
     "location": "New Zealand",
     "lat": -40.9,
     "lon": 174.8,
-    "count": 3,
-    "type": "country"
-  },
-  {
-    "location": "Poland",
-    "lat": 51.9,
-    "lon": 19.1,
-    "count": 3,
-    "type": "country"
-  },
-  {
-    "location": "Czech Republic",
-    "lat": 49.8,
-    "lon": 15.4,
     "count": 2,
     "type": "country"
   },
   {
-    "location": "Malaysia",
-    "lat": 4.2105,
-    "lon": 101.9758,
+    "location": "South Korea",
+    "lat": 37.5,
+    "lon": 127.0,
     "count": 2,
     "type": "country"
   },
   {
-    "location": "Greece",
-    "lat": 39.0,
-    "lon": 21.8,
+    "location": "Ireland",
+    "lat": 53.4,
+    "lon": -8.0,
+    "count": 2,
+    "type": "country"
+  },
+  {
+    "location": "Vietnam",
+    "lat": 14.0,
+    "lon": 108.2,
     "count": 2,
     "type": "country"
   },
   {
     "location": "Thailand",
-    "lat": 15.87,
-    "lon": 100.9925,
+    "lat": 15.8,
+    "lon": 100.9,
+    "count": 2,
+    "type": "country"
+  },
+  {
+    "location": "Taiwan",
+    "lat": 23.6,
+    "lon": 120.9,
+    "count": 2,
+    "type": "country"
+  },
+  {
+    "location": "Nigeria",
+    "lat": 9.0,
+    "lon": 8.6,
     "count": 2,
     "type": "country"
   },
   {
     "location": "Cyprus",
-    "lat": 35.1264,
-    "lon": 33.4299,
-    "count": 1,
-    "type": "country"
-  },
-  {
-    "location": "El Salvador",
-    "lat": 13.7942,
-    "lon": -88.8965,
-    "count": 1,
-    "type": "country"
-  },
-  {
-    "location": "Zimbabwe",
-    "lat": -19.0154,
-    "lon": 29.1549,
+    "lat": 35.1,
+    "lon": 33.4,
     "count": 1,
     "type": "country"
   },
   {
     "location": "Iran",
-    "lat": 32.4279,
-    "lon": 53.688,
+    "lat": 32.4,
+    "lon": 53.6,
     "count": 1,
     "type": "country"
   },
   {
-    "location": "Vietnam",
-    "lat": 14.0583,
-    "lon": 108.2772,
+    "location": "Zimbabwe",
+    "lat": -19.0,
+    "lon": 29.1,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "United Arab Emirates",
+    "lat": 23.4,
+    "lon": 53.8,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "El Salvador",
+    "lat": 13.7,
+    "lon": -88.8,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "UK ",
+    "lat": 54.0,
+    "lon": -2.0,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Bulgaria",
+    "lat": 42.7,
+    "lon": 25.4,
     "count": 1,
     "type": "country"
   },
   {
     "location": "Bangladesh",
-    "lat": 23.685,
-    "lon": 90.3563,
-    "count": 1,
-    "type": "country"
-  },
-  {
-    "location": "China",
-    "lat": 35.8,
-    "lon": 104.1,
-    "count": 4,
-    "type": "country"
-  },
-  {
-    "location": "Chile",
-    "lat": -35.6,
-    "lon": -71.5,
-    "count": 1,
-    "type": "country"
-  },
-  {
-    "location": "Nigeria",
-    "lat": 9.082,
-    "lon": 8.6753,
-    "count": 1,
-    "type": "country"
-  },
-  {
-    "location": "Switzerland",
-    "lat": 46.8,
-    "lon": 8.2,
+    "lat": 23.6,
+    "lon": 90.3,
     "count": 1,
     "type": "country"
   },
   {
     "location": "Peru",
-    "lat": -9.19,
-    "lon": -75.0152,
+    "lat": -9.1,
+    "lon": -75.0,
     "count": 1,
     "type": "country"
   },
@@ -280,51 +336,44 @@
     "type": "country"
   },
   {
-    "location": "London, UK",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "count": 20,
-    "type": "city"
-  },
-  {
     "location": "Newcastle, UK",
     "lat": 54.9783,
     "lon": -1.6178,
-    "count": 17,
+    "count": 23,
     "type": "city"
   },
   {
-    "location": "Reading, UK",
-    "lat": 51.4543,
-    "lon": -0.9781,
+    "location": "Tokyo, Japan",
+    "lat": 35.6762,
+    "lon": 139.6503,
     "count": 10,
+    "type": "city"
+  },
+  {
+    "location": "London, UK",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "count": 37,
+    "type": "city"
+  },
+  {
+    "location": "Stirling, UK",
+    "lat": 56.1165,
+    "lon": -3.9369,
+    "count": 3,
     "type": "city"
   },
   {
     "location": "Belfast, UK",
     "lat": 54.5973,
     "lon": -5.9301,
-    "count": 9,
+    "count": 13,
     "type": "city"
   },
   {
-    "location": "Copenhagen, Denmark",
-    "lat": 55.6761,
-    "lon": 12.5683,
-    "count": 9,
-    "type": "city"
-  },
-  {
-    "location": "Oxford, UK",
-    "lat": 51.752,
-    "lon": -1.2577,
-    "count": 8,
-    "type": "city"
-  },
-  {
-    "location": "Glasgow, UK",
-    "lat": 55.8642,
-    "lon": -4.2518,
+    "location": "Lancaster, UK",
+    "lat": 54.0466,
+    "lon": -2.8007,
     "count": 6,
     "type": "city"
   },
@@ -332,49 +381,252 @@
     "location": "Exeter, UK",
     "lat": 50.7184,
     "lon": -3.5339,
+    "count": 8,
+    "type": "city"
+  },
+  {
+    "location": "Barcelona, Spain",
+    "lat": 41.3851,
+    "lon": 2.1734,
+    "count": 18,
+    "type": "city"
+  },
+  {
+    "location": "Madrid, Spain",
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "count": 10,
+    "type": "city"
+  },
+  {
+    "location": "Milan, Italy",
+    "lat": 45.4642,
+    "lon": 9.19,
+    "count": 16,
+    "type": "city"
+  },
+  {
+    "location": "Oslo, Norway",
+    "lat": 59.9139,
+    "lon": 10.7522,
+    "count": 12,
+    "type": "city"
+  },
+  {
+    "location": "Leeds, UK",
+    "lat": 53.8008,
+    "lon": -1.5491,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Istanbul, Turkey",
+    "lat": 41.0082,
+    "lon": 28.9784,
     "count": 5,
+    "type": "city"
+  },
+  {
+    "location": "Stockholm, Sweden",
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "count": 11,
+    "type": "city"
+  },
+  {
+    "location": "Leicester, UK",
+    "lat": 52.6369,
+    "lon": -1.1398,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "New York, USA",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "count": 6,
+    "type": "city"
+  },
+  {
+    "location": "Sydney, Australia",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "count": 11,
+    "type": "city"
+  },
+  {
+    "location": "Melbourne, Australia",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "count": 9,
+    "type": "city"
+  },
+  {
+    "location": "Frankfurt, Germany",
+    "lat": 50.1109,
+    "lon": 8.6821,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Manchester, UK",
+    "lat": 53.4808,
+    "lon": -2.2426,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Oxford, UK",
+    "lat": 51.752,
+    "lon": -1.2577,
+    "count": 12,
     "type": "city"
   },
   {
     "location": "York, UK",
     "lat": 53.96,
     "lon": -1.0873,
-    "count": 5,
-    "type": "city"
-  },
-  {
-    "location": "Edinburgh, UK",
-    "lat": 55.9533,
-    "lon": -3.1883,
-    "count": 4,
-    "type": "city"
-  },
-  {
-    "location": "Lancaster, UK",
-    "lat": 54.0466,
-    "lon": -2.8007,
-    "count": 3,
-    "type": "city"
-  },
-  {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
-    "count": 3,
-    "type": "city"
-  },
-  {
-    "location": "Cardiff, UK",
-    "lat": 51.4816,
-    "lon": -3.1791,
-    "count": 2,
+    "count": 13,
     "type": "city"
   },
   {
     "location": "Cambridge, UK",
     "lat": 52.2053,
     "lon": 0.1218,
+    "count": 7,
+    "type": "city"
+  },
+  {
+    "location": "Singapore, Singapore",
+    "lat": 1.3521,
+    "lon": 103.8198,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "London, USA",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Bath, UK",
+    "lat": 51.3751,
+    "lon": -2.3599,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Cardiff, UK",
+    "lat": 51.4816,
+    "lon": -3.1791,
+    "count": 5,
+    "type": "city"
+  },
+  {
+    "location": "Brisbane, Australia",
+    "lat": -27.4698,
+    "lon": 153.0251,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Toronto, Canada",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Nottingham, UK",
+    "lat": 52.9548,
+    "lon": -1.1581,
+    "count": 13,
+    "type": "city"
+  },
+  {
+    "location": "Copenhagen, Denmark",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "count": 17,
+    "type": "city"
+  },
+  {
+    "location": "Lille, France",
+    "lat": 50.6292,
+    "lon": 3.0573,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Glasgow, UK",
+    "lat": 55.8642,
+    "lon": -4.2518,
+    "count": 15,
+    "type": "city"
+  },
+  {
+    "location": "Sydney, Canada",
+    "lat": -33.8688,
+    "lon": 151.2093,
     "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Edinburgh, UK",
+    "lat": 55.9533,
+    "lon": -3.1883,
+    "count": 5,
+    "type": "city"
+  },
+  {
+    "location": "Reading, UK",
+    "lat": 51.4543,
+    "lon": -0.9781,
+    "count": 13,
+    "type": "city"
+  },
+  {
+    "location": "Edinburgh, UK ",
+    "lat": 55.9533,
+    "lon": -3.1883,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Calgary, Canada",
+    "lat": 51.0447,
+    "lon": -114.0719,
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Kyoto, Japan",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "count": 6,
+    "type": "city"
+  },
+  {
+    "location": "Glasgow, Japan",
+    "lat": 55.8642,
+    "lon": -4.2518,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Cambridge, USA",
+    "lat": 52.2053,
+    "lon": 0.1218,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Rome, Italy",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "count": 5,
     "type": "city"
   },
   {
@@ -385,30 +637,318 @@
     "type": "city"
   },
   {
-    "location": "Manchester, UK",
-    "lat": 53.4808,
-    "lon": -2.2426,
+    "location": "Halifax, Canada",
+    "lat": 44.6488,
+    "lon": -63.5752,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.4862,
+    "lon": -1.8904,
+    "count": 8,
+    "type": "city"
+  },
+  {
+    "location": "Sheffield, UK",
+    "lat": 53.3811,
+    "lon": -1.4701,
+    "count": 5,
+    "type": "city"
+  },
+  {
+    "location": "Prague, Czech Republic",
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Coventry, UK",
+    "lat": 52.4068,
+    "lon": -1.5197,
+    "count": 8,
+    "type": "city"
+  },
+  {
+    "location": "Gaziantep, Turkey",
+    "lat": 37.0662,
+    "lon": 37.3833,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Bogotá, Colombia",
+    "lat": 4.711,
+    "lon": -74.0721,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Alicante, Spain",
+    "lat": 38.3452,
+    "lon": -0.481,
+    "count": 6,
+    "type": "city"
+  },
+  {
+    "location": "Southampton, UK",
+    "lat": 50.9097,
+    "lon": -1.4044,
     "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Helsinki, Finland",
+    "lat": 60.1699,
+    "lon": 24.9384,
+    "count": 7,
+    "type": "city"
+  },
+  {
+    "location": "Montreal, Canada",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "count": 5,
+    "type": "city"
+  },
+  {
+    "location": "Colchester, UK",
+    "lat": 51.8959,
+    "lon": 0.8919,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Amsterdam, Netherlands",
+    "lat": 52.3676,
+    "lon": 4.9041,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Brighton, UK",
+    "lat": 50.8225,
+    "lon": -0.1372,
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Sofia, Bulgaria",
+    "lat": 42.6977,
+    "lon": 23.3219,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Lyon, France",
+    "lat": 45.764,
+    "lon": 4.8357,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Paris, France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Jyväskylä, Finland",
+    "lat": 62.2426,
+    "lon": 25.7473,
+    "count": 8,
     "type": "city"
   },
   {
     "location": "Liverpool, UK",
     "lat": 53.4084,
     "lon": -2.9916,
-    "count": 1,
-    "type": "city"
-  },
-   {
-    "location": "Hong Kong, China",
-    "lat": 22.3,
-    "lon": 114.1,
     "count": 3,
     "type": "city"
   },
   {
+    "location": "Hull, UK",
+    "lat": 53.7457,
+    "lon": -0.3367,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Cambridge, Australia",
+    "lat": 52.2053,
+    "lon": 0.1218,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Munich, Germany",
+    "lat": 48.1351,
+    "lon": 11.582,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Lisbon, Portugal",
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "count": 3,
+    "type": "city"
+  },
+  {
+    "location": "Portsmouth, UK",
+    "lat": 50.8198,
+    "lon": -1.088,
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Charleston, USA",
+    "lat": 32.7765,
+    "lon": -79.9311,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Hong Kong, China SAR",
+    "lat": 22.3,
+    "lon": 114.1,
+    "count": 4,
+    "type": "city"
+  },
+  {
+    "location": "Dundee, UK",
+    "lat": 56.462,
+    "lon": -2.9707,
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Dublin, Ireland",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Athens, Greece",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Los Angeles, USA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Milan, USA",
+    "lat": 45.4642,
+    "lon": 9.19,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Venice, Italy",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Oxford, USA",
+    "lat": 51.752,
+    "lon": -1.2577,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "New Haven, USA",
+    "lat": 41.3083,
+    "lon": -72.9279,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Vancouver, Canada",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Paris, Germany",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Boston, USA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.5823,
+    "lon": -5.9501,
+    "count": 1,
+    "type": "individual",
+    "name": "Graham Brownlow",
+    "affiliation": "Queen's University Belfast",
+    "interests": "British and Irish topics, Institutional and Organizational economic approaches , Entrepreneurship and Rent-seeking, Business Failure, Pedagogy"
+  },
+  {
+    "location": "Sydney, Australia",
+    "lat": -33.8838,
+    "lon": 151.1893,
+    "count": 1,
+    "type": "individual",
+    "name": "Kyle Bruce",
+    "affiliation": "Wentworth Institute of Higher Education ",
+    "interests": "History of Management Thought "
+  },
+  {
+    "location": "Lille, France",
+    "lat": 50.6142,
+    "lon": 3.0373,
+    "count": 1,
+    "type": "individual",
+    "name": "Ludovic Cailluet",
+    "affiliation": "EDHEC Business School",
+    "interests": "uses of the past, family business, emotions, history"
+  },
+  {
+    "location": "Calgary, Canada",
+    "lat": 51.0297,
+    "lon": -114.0919,
+    "count": 1,
+    "type": "individual",
+    "name": "Kristene E. Coller",
+    "affiliation": "Southern Alberta Institute of Technology (SAIT)",
+    "interests": "Management history, historiography, ANTi-History, Management Education"
+  },
+  {
+    "location": "Halifax, Canada",
+    "lat": 44.6338,
+    "lon": -63.5952,
+    "count": 1,
+    "type": "individual",
+    "name": "Nicholous M. Deal",
+    "affiliation": "Mount Saint Vincent University",
+    "interests": "Critical historiography, organization memory studies, history of management thought, management learning and education"
+  },
+  {
     "location": "Birmingham, UK",
-    "lat": 52.4508,
-    "lon": -1.9155000000000002,
+    "lat": 52.4712,
+    "lon": -1.9104,
     "count": 1,
     "type": "individual",
     "name": "Stephanie Decker",
@@ -416,33 +956,243 @@
     "interests": "historical methods in management, multinationals, Africa, Ghana, Nigeria, archival research, digital sources"
   },
   {
-    "location": "Birmingham, UK",
-    "lat": 52.4614,
-    "lon": -1.9199000000000002,
+    "location": "Halifax, Canada",
+    "lat": 44.6488,
+    "lon": -63.5952,
     "count": 1,
     "type": "individual",
-    "name": "Adam Nix",
-    "affiliation": "University of Birmingham",
-    "interests": "digital sources, organizational corruption, historical methods, responsible business"
+    "name": "Gabrielle Durepos",
+    "affiliation": "Mount Saint Vincent University",
+    "interests": "methodology; archives; museums"
+  },
+  {
+    "location": "Gaziantep, Turkey",
+    "lat": 37.0512,
+    "lon": 37.3633,
+    "count": 1,
+    "type": "individual",
+    "name": "Gokmen Durmus",
+    "affiliation": "Gaziantep University",
+    "interests": "Organization Theory, Entrepreneurship"
   },
   {
     "location": "Copenhagen, Denmark",
-    "lat": 55.6826,
-    "lon": 12.586300000000001,
+    "lat": 55.6611,
+    "lon": 12.5483,
+    "count": 1,
+    "type": "individual",
+    "name": "Camilla Ferri",
+    "affiliation": "Copenhagne Business School",
+    "interests": "Uses of the past, collective memory, materiality, craft, heritage"
+  },
+  {
+    "location": "York, UK",
+    "lat": 53.945,
+    "lon": -1.1073,
+    "count": 1,
+    "type": "individual",
+    "name": "Alex Gillett",
+    "affiliation": "University of York",
+    "interests": "various"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.4862,
+    "lon": -1.9104,
+    "count": 1,
+    "type": "individual",
+    "name": "Elena Giovannoni",
+    "affiliation": "University of Birmingham ",
+    "interests": "Critical and historical perspectives on calculative practices, materiality and Space"
+  },
+  {
+    "location": "Brighton, UK",
+    "lat": 50.8075,
+    "lon": -0.1572,
+    "count": 1,
+    "type": "individual",
+    "name": "Andrew Godley",
+    "affiliation": "University of Sussex",
+    "interests": "Innovation, retailing, food"
+  },
+  {
+    "location": "Sofia, Bulgaria",
+    "lat": 42.6827,
+    "lon": 23.3019,
+    "count": 1,
+    "type": "individual",
+    "name": "Plamen Ivanov",
+    "affiliation": "University of Insurance and Finance",
+    "interests": "Money, monetary economics, institutional change"
+  },
+  {
+    "location": "Sheffield, UK",
+    "lat": 53.3661,
+    "lon": -1.4901,
+    "count": 1,
+    "type": "individual",
+    "name": "Ian G Jones",
+    "affiliation": "Lecturer in Strategy, University of Sheffield",
+    "interests": "Banking history; uses of the past; corporate archives; business strategy; corporate ethics; wrestling industry; video game industry; corporate sponsorship"
+  },
+  {
+    "location": "Barcelona, Spain",
+    "lat": 41.3701,
+    "lon": 2.1534,
+    "count": 1,
+    "type": "individual",
+    "name": "Xavier Jou-Badal",
+    "affiliation": "Universitat Pompeu Fabra",
+    "interests": "marketing, labour history, chocolate"
+  },
+  {
+    "location": "Copenhagen, Denmark",
+    "lat": 55.6761,
+    "lon": 12.5483,
     "count": 1,
     "type": "individual",
     "name": "Christina Lubinski",
     "affiliation": "Professor of Business History, Copenhagen Business School",
-    "interests": "Historical entrepreneurship, historical methods, India, rhetorical history"
+    "interests": "Centre for Business History"
+  },
+  {
+    "location": "Prague, Czech Republic",
+    "lat": 50.0605,
+    "lon": 14.4178,
+    "count": 1,
+    "type": "individual",
+    "name": "Lucie Mařanová",
+    "affiliation": "Prague University of Economics and Business, Faculty of Business Administration",
+    "interests": "Austria-Hungary, sugar manufacturers, textile manufacturers, business networks, 19th century"
+  },
+  {
+    "location": "Charleston, USA",
+    "lat": 32.7615,
+    "lon": -79.9511,
+    "count": 1,
+    "type": "individual",
+    "name": "Ivana Milosevic",
+    "affiliation": "College of Charleston",
+    "interests": "leadership"
+  },
+  {
+    "location": "Reading, UK",
+    "lat": 51.4393,
+    "lon": -0.9981,
+    "count": 1,
+    "type": "individual",
+    "name": "Peter Miskell",
+    "affiliation": "University of Reading",
+    "interests": "History of multinational business; History of cultural and creative industries"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.5012,
+    "lon": -1.9104,
+    "count": 1,
+    "type": "individual",
+    "name": "Adam Nix",
+    "affiliation": "University of Birmingham",
+    "interests": "digital sources, organizational corruption, historical methods, responsible business, utilities, national industries"
+  },
+  {
+    "location": "Oslo, Norway",
+    "lat": 59.8989,
+    "lon": 10.7322,
+    "count": 1,
+    "type": "individual",
+    "name": "Pål Nygaard",
+    "affiliation": "University of Bergen",
+    "interests": "Business History, History of management, organization studies, project studies"
+  },
+  {
+    "location": "Dublin, Ireland",
+    "lat": 53.3348,
+    "lon": -6.2803,
+    "count": 1,
+    "type": "individual",
+    "name": "Emmet Oliver",
+    "affiliation": "Trinity College Dublin",
+    "interests": "Political economy, services, business government relations"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.5973,
+    "lon": -5.9501,
+    "count": 1,
+    "type": "individual",
+    "name": "Pallavi Padma-Uday",
+    "affiliation": "Queen's University Belfast",
+    "interests": "Entrepreneurship in emerging markets, Institutions and Institutional Change, Modern India"
+  },
+  {
+    "location": "Sydney, Canada",
+    "lat": -33.8688,
+    "lon": 151.1893,
+    "count": 1,
+    "type": "individual",
+    "name": "Stefanie Ruel",
+    "affiliation": "Cape Breton University",
+    "interests": "Feminist Historiography, Space/STEM business histories"
+  },
+  {
+    "location": "New Haven, USA",
+    "lat": 41.2933,
+    "lon": -72.9479,
+    "count": 1,
+    "type": "individual",
+    "name": "Michelle Spinelli",
+    "affiliation": "Yale University",
+    "interests": "History of Organizations"
+  },
+  {
+    "location": "Jyväskylä, Finland",
+    "lat": 62.2276,
+    "lon": 25.7273,
+    "count": 1,
+    "type": "individual",
+    "name": "Christian Stutz",
+    "affiliation": "University of Jyväskylä",
+    "interests": "Historical organization studies, international business, business ethics, nonmarket strategy and geopolitics"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.6123,
+    "lon": -5.9501,
+    "count": 1,
+    "type": "individual",
+    "name": "John Turner",
+    "affiliation": "Professor at Queen's University Belfast",
+    "interests": "Financial and banking history"
   },
   {
     "location": "Newcastle, UK",
-    "lat": 54.9743,
-    "lon": -1.5918,
+    "lat": 54.9633,
+    "lon": -1.6378,
+    "count": 1,
+    "type": "individual",
+    "name": "John F. Wilson",
+    "affiliation": "Northumbria University",
+    "interests": "Business History; Management History; Industrial History"
+  },
+  {
+    "location": "Newcastle, UK",
+    "lat": 54.9783,
+    "lon": -1.6378,
     "count": 1,
     "type": "individual",
     "name": "Nicholas D Wong",
     "affiliation": "Senior Lecturer in Entrepreneurship, Newcastle Business School, Northumbria University",
     "interests": "family business, historical entrepreneurship"
+  },
+  {
+    "location": "Kyoto, Japan",
+    "lat": 34.9966,
+    "lon": 135.7481,
+    "count": 1,
+    "type": "individual",
+    "name": "Yen Nie Yong",
+    "affiliation": "Kyoto University",
+    "interests": "Consumer culture, craft, heritage, nationalism, Southeast Asia"
   }
 ]
