@@ -1,0 +1,74 @@
+name: Update Map Data
+
+on:
+  # Triggered by Power Automate webhook
+  repository_dispatch:
+    types: [form-submission]
+
+  # Manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'Action type'
+        required: true
+        default: 'add'
+        type: choice
+        options:
+          - add
+          - withdraw
+      name:
+        description: 'Full name'
+        required: true
+      affiliation:
+        description: 'Institution/Affiliation'
+        required: true
+      city:
+        description: 'City'
+        required: true
+      country:
+        description: 'Country'
+        required: true
+      interests:
+        description: 'Research interests (optional)'
+        required: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Process form submission
+        env:
+          # From repository_dispatch (Power Automate)
+          DISPATCH_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          # From workflow_dispatch (manual)
+          INPUT_ACTION: ${{ github.event.inputs.action }}
+          INPUT_NAME: ${{ github.event.inputs.name }}
+          INPUT_AFFILIATION: ${{ github.event.inputs.affiliation }}
+          INPUT_CITY: ${{ github.event.inputs.city }}
+          INPUT_COUNTRY: ${{ github.event.inputs.country }}
+          INPUT_INTERESTS: ${{ github.event.inputs.interests }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: python scripts/process_submission.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add academics_data.json
+          git diff --staged --quiet || git commit -m "Update map data from form submission"
+          git push
