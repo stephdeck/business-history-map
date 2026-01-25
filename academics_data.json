@@ -3,7 +3,7 @@
     "location": "UK",
     "lat": 54.0,
     "lon": -2.0,
-    "count": 281,
+    "count": 282,
     "type": "country"
   },
   {
@@ -301,13 +301,6 @@
     "type": "country"
   },
   {
-    "location": "UK ",
-    "lat": 54.0,
-    "lon": -2.0,
-    "count": 1,
-    "type": "country"
-  },
-  {
     "location": "Bulgaria",
     "lat": 42.7,
     "lon": 25.4,
@@ -501,13 +494,6 @@
     "lat": 1.3521,
     "lon": 103.8198,
     "count": 3,
-    "type": "city"
-  },
-  {
-    "location": "London, USA",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "count": 1,
     "type": "city"
   },
   {
