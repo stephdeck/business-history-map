@@ -3,49 +3,49 @@
     "location": "UK",
     "lat": 54.0,
     "lon": -2.0,
-    "count": 288,
+    "count": 300,
     "type": "country"
   },
   {
     "location": "USA",
     "lat": 39.8,
     "lon": -98.5,
-    "count": 104,
+    "count": 109,
     "type": "country"
   },
   {
     "location": "Italy",
     "lat": 42.8,
     "lon": 12.5,
-    "count": 79,
+    "count": 83,
     "type": "country"
   },
   {
     "location": "Spain",
     "lat": 40.4,
     "lon": -3.7,
-    "count": 72,
+    "count": 74,
     "type": "country"
   },
   {
     "location": "France",
     "lat": 46.2,
     "lon": 2.2,
-    "count": 45,
+    "count": 48,
     "type": "country"
   },
   {
     "location": "Sweden",
     "lat": 60.1,
     "lon": 18.6,
-    "count": 41,
+    "count": 42,
     "type": "country"
   },
   {
     "location": "Australia",
     "lat": -25.2,
     "lon": 133.7,
-    "count": 41,
+    "count": 38,
     "type": "country"
   },
   {
@@ -59,7 +59,7 @@
     "location": "Canada",
     "lat": 56.1,
     "lon": -106.3,
-    "count": 35,
+    "count": 38,
     "type": "country"
   },
   {
@@ -73,28 +73,28 @@
     "location": "Denmark",
     "lat": 56.2,
     "lon": 9.5,
-    "count": 26,
+    "count": 27,
     "type": "country"
   },
   {
     "location": "The Netherlands",
     "lat": 52.1,
     "lon": 5.2,
-    "count": 23,
+    "count": 30,
     "type": "country"
   },
   {
     "location": "Finland",
     "lat": 61.9,
     "lon": 25.7,
-    "count": 23,
+    "count": 24,
     "type": "country"
   },
   {
     "location": "Norway",
     "lat": 60.4,
     "lon": 8.4,
-    "count": 19,
+    "count": 21,
     "type": "country"
   },
   {
@@ -108,7 +108,7 @@
     "location": "Belgium",
     "lat": 50.5,
     "lon": 4.4,
-    "count": 13,
+    "count": 14,
     "type": "country"
   },
   {
@@ -122,7 +122,7 @@
     "location": "India",
     "lat": 20.5,
     "lon": 78.9,
-    "count": 11,
+    "count": 13,
     "type": "country"
   },
   {
@@ -154,13 +154,6 @@
     "type": "country"
   },
   {
-    "location": "Netherlands",
-    "lat": 52.1,
-    "lon": 5.2,
-    "count": 6,
-    "type": "country"
-  },
-  {
     "location": "Greece",
     "lat": 39.0,
     "lon": 21.8,
@@ -178,7 +171,7 @@
     "location": "South Africa",
     "lat": -30.5,
     "lon": 22.9,
-    "count": 6,
+    "count": 8,
     "type": "country"
   },
   {
@@ -199,7 +192,7 @@
     "location": "Czech Republic",
     "lat": 49.8,
     "lon": 15.4,
-    "count": 4,
+    "count": 5,
     "type": "country"
   },
   {
@@ -318,7 +311,7 @@
     "location": "Peru",
     "lat": -9.1,
     "lon": -75.0,
-    "count": 1,
+    "count": 3,
     "type": "country"
   },
   {
@@ -346,7 +339,7 @@
     "location": "London, UK",
     "lat": 51.5074,
     "lon": -0.1278,
-    "count": 37,
+    "count": 38,
     "type": "city"
   },
   {
@@ -360,14 +353,14 @@
     "location": "Birmingham, UK",
     "lat": 52.4862,
     "lon": -1.8904,
-    "count": 10,
+    "count": 11,
     "type": "city"
   },
   {
     "location": "Belfast, UK",
     "lat": 54.5973,
     "lon": -5.9301,
-    "count": 13,
+    "count": 15,
     "type": "city"
   },
   {
@@ -388,7 +381,7 @@
     "location": "Barcelona, Spain",
     "lat": 41.3851,
     "lon": 2.1734,
-    "count": 19,
+    "count": 20,
     "type": "city"
   },
   {
@@ -402,14 +395,14 @@
     "location": "Milan, Italy",
     "lat": 45.4642,
     "lon": 9.19,
-    "count": 16,
+    "count": 18,
     "type": "city"
   },
   {
     "location": "Oslo, Norway",
     "lat": 59.9139,
     "lon": 10.7522,
-    "count": 12,
+    "count": 14,
     "type": "city"
   },
   {
@@ -472,28 +465,28 @@
     "location": "Manchester, UK",
     "lat": 53.4808,
     "lon": -2.2426,
-    "count": 4,
+    "count": 5,
     "type": "city"
   },
   {
     "location": "Oxford, UK",
     "lat": 51.752,
     "lon": -1.2577,
-    "count": 12,
+    "count": 13,
     "type": "city"
   },
   {
     "location": "York, UK",
     "lat": 53.96,
     "lon": -1.0873,
-    "count": 13,
+    "count": 14,
     "type": "city"
   },
   {
     "location": "Cambridge, UK",
     "lat": 52.2053,
     "lon": 0.1218,
-    "count": 7,
+    "count": 10,
     "type": "city"
   },
   {
@@ -549,7 +542,7 @@
     "location": "Copenhagen, Denmark",
     "lat": 55.6761,
     "lon": 12.5683,
-    "count": 17,
+    "count": 18,
     "type": "city"
   },
   {
@@ -563,7 +556,7 @@
     "location": "Glasgow, UK",
     "lat": 55.8642,
     "lon": -4.2518,
-    "count": 15,
+    "count": 16,
     "type": "city"
   },
   {
@@ -577,7 +570,7 @@
     "location": "Edinburgh, UK",
     "lat": 55.9533,
     "lon": -3.1883,
-    "count": 5,
+    "count": 6,
     "type": "city"
   },
   {
@@ -585,13 +578,6 @@
     "lat": 51.4543,
     "lon": -0.9781,
     "count": 13,
-    "type": "city"
-  },
-  {
-    "location": "Edinburgh, UK ",
-    "lat": 55.9533,
-    "lon": -3.1883,
-    "count": 1,
     "type": "city"
   },
   {
@@ -616,16 +602,9 @@
     "type": "city"
   },
   {
-    "location": "Glasgow, Japan",
-    "lat": 55.8642,
-    "lon": -4.2518,
-    "count": 1,
-    "type": "city"
-  },
-  {
     "location": "Cambridge, USA",
-    "lat": 52.2053,
-    "lon": 0.1218,
+    "lat": 42.3736,
+    "lon": -71.1097,
     "count": 4,
     "type": "city"
   },
@@ -633,7 +612,7 @@
     "location": "Rome, Italy",
     "lat": 41.9028,
     "lon": 12.4964,
-    "count": 5,
+    "count": 6,
     "type": "city"
   },
   {
@@ -641,13 +620,6 @@
     "lat": 51.4545,
     "lon": -2.5879,
     "count": 2,
-    "type": "city"
-  },
-  {
-    "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
-    "count": 6,
     "type": "city"
   },
   {
@@ -661,7 +633,7 @@
     "location": "Prague, Czech Republic",
     "lat": 50.0755,
     "lon": 14.4378,
-    "count": 3,
+    "count": 4,
     "type": "city"
   },
   {
@@ -689,7 +661,7 @@
     "location": "Alicante, Spain",
     "lat": 38.3452,
     "lon": -0.481,
-    "count": 7,
+    "count": 8,
     "type": "city"
   },
   {
@@ -703,7 +675,7 @@
     "location": "Helsinki, Finland",
     "lat": 60.1699,
     "lon": 24.9384,
-    "count": 7,
+    "count": 8,
     "type": "city"
   },
   {
@@ -766,7 +738,7 @@
     "location": "Paris, France",
     "lat": 48.8566,
     "lon": 2.3522,
-    "count": 4,
+    "count": 7,
     "type": "city"
   },
   {
@@ -780,13 +752,6 @@
     "location": "Hull, UK",
     "lat": 53.7457,
     "lon": -0.3367,
-    "count": 3,
-    "type": "city"
-  },
-  {
-    "location": "Cambridge, Australia",
-    "lat": 52.2053,
-    "lon": 0.1218,
     "count": 3,
     "type": "city"
   },
@@ -861,20 +826,6 @@
     "type": "city"
   },
   {
-    "location": "Milan, USA",
-    "lat": 45.4642,
-    "lon": 9.19,
-    "count": 1,
-    "type": "city"
-  },
-  {
-    "location": "Oxford, USA",
-    "lat": 51.752,
-    "lon": -1.2577,
-    "count": 1,
-    "type": "city"
-  },
-  {
     "location": "New Haven, USA",
     "lat": 41.3083,
     "lon": -72.9279,
@@ -889,24 +840,17 @@
     "type": "city"
   },
   {
-    "location": "Paris, Germany",
-    "lat": 48.8566,
-    "lon": 2.3522,
-    "count": 1,
-    "type": "city"
-  },
-  {
-    "location": "Halifax, Canda",
+    "location": "Halifax, Canada",
     "lat": 44.6488,
     "lon": -63.5752,
-    "count": 1,
+    "count": 8,
     "type": "city"
   },
   {
     "location": "Boston, USA",
     "lat": 42.3601,
     "lon": -71.0589,
-    "count": 1,
+    "count": 2,
     "type": "city"
   },
   {
@@ -1001,13 +945,13 @@
   },
   {
     "location": "Halifax, Canada",
-    "lat": 44.6338,
-    "lon": -63.5952,
+    "lat": 44.648618,
+    "lon": -63.5859487,
     "count": 1,
     "type": "individual",
-    "name": "Nicholous M. Deal",
+    "name": "Nicholous Deal",
     "affiliation": "Mount Saint Vincent University",
-    "interests": "Critical historiography, organization memory studies, history of management thought, management learning and education"
+    "interests": "Historiography, Historical Organization Studies, Critical Organizational History, History of Management Thought, and Management Learning and Education"
   },
   {
     "location": "Birmingham, UK",
@@ -1370,7 +1314,7 @@
     "interests": "Financial and banking history"
   },
   {
-    "location": "Halifax, Canda",
+    "location": "Halifax, Canada",
     "lat": 44.6638,
     "lon": -63.5752,
     "count": 1,
@@ -1408,5 +1352,499 @@
     "name": "Yen Nie Yong",
     "affiliation": "Kyoto University",
     "interests": "Consumer culture, craft, heritage, nationalism, Southeast Asia"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.4796992,
+    "lon": -1.9026911,
+    "count": 1,
+    "type": "individual",
+    "name": "Manimuthu Arunmozhi",
+    "affiliation": "Aston University",
+    "interests": "Blockchain, AI, machine learning, network security, sustainable operations and information management, and supply-chain optimization"
+  },
+  {
+    "location": "Milan, Italy",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "count": 1,
+    "type": "individual",
+    "name": "Valeria Giacomin",
+    "affiliation": "Università Bocconi",
+    "interests": ""
+  },
+  {
+    "location": "Fredericton, Canada",
+    "lat": 45.9488278,
+    "lon": -66.6291827,
+    "count": 1,
+    "type": "individual",
+    "name": "David Foord",
+    "affiliation": "University of New Brunswick",
+    "interests": "19th and 20th century science, technology and business history"
+  },
+  {
+    "location": "Barcelona, Spain",
+    "lat": 41.3825802,
+    "lon": 2.177073,
+    "count": 1,
+    "type": "individual",
+    "name": "Paloma Fernández Pérez",
+    "affiliation": "Universitat de Barcelona",
+    "interests": "Entrepreneurship; Networks; Family Businesses; Innovation; Internationalization; Grand Challenges (Health); Spain; Latin America"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.5975805,
+    "lon": -5.9277097,
+    "count": 1,
+    "type": "individual",
+    "name": "Chris Colvin",
+    "affiliation": "Queen's University Belfast",
+    "interests": "business history, economic history, financial history"
+  },
+  {
+    "location": "Ottawa, Canada",
+    "lat": 45.4208777,
+    "lon": -75.6901106,
+    "count": 1,
+    "type": "individual",
+    "name": "Cheryl Susan Mc Watters",
+    "affiliation": "University of Ottawa",
+    "interests": "Mercantilism, accounting practices, networks"
+  },
+  {
+    "location": "Copenhagen, Denmark",
+    "lat": 55.6867243,
+    "lon": 12.5700724,
+    "count": 1,
+    "type": "individual",
+    "name": "Benjamin Asmussen",
+    "affiliation": "National Museum of Denmark",
+    "interests": "Business history, maritime history, global history, historical network analysis"
+  },
+  {
+    "location": "Manchester, UK",
+    "lat": 53.4794892,
+    "lon": -2.2451148,
+    "count": 1,
+    "type": "individual",
+    "name": "Sourav Sinha",
+    "affiliation": "University of Manchester",
+    "interests": "Business history of India"
+  },
+  {
+    "location": "Osaka, Japan",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "count": 1,
+    "type": "individual",
+    "name": "Pierre-Yves Donzé",
+    "affiliation": "Osaka University",
+    "interests": "Creative industries, fashion, luxury, multinationals"
+  },
+  {
+    "location": "Bonn, Germany",
+    "lat": 50.7352621,
+    "lon": 7.1024635,
+    "count": 1,
+    "type": "individual",
+    "name": "Jan Logemann",
+    "affiliation": "Bonn University",
+    "interests": "Consumer and marketing and advertising history, transatlantic migration, funeral businesses and taboo markets"
+  },
+  {
+    "location": "Groningen, Netherlands",
+    "lat": 53.2190652,
+    "lon": 6.5680077,
+    "count": 1,
+    "type": "individual",
+    "name": "Abe De Jong",
+    "affiliation": "University of Groningen",
+    "interests": "Financial and business history"
+  },
+  {
+    "location": "Oslo, Norway",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "count": 1,
+    "type": "individual",
+    "name": "Rolv Petter Amdam",
+    "affiliation": "BI Norwegian Business School",
+    "interests": "management education, international business"
+  },
+  {
+    "location": "Umeå, Sweden",
+    "lat": 63.8256568,
+    "lon": 20.2630745,
+    "count": 1,
+    "type": "individual",
+    "name": "Mattias Näsman",
+    "affiliation": "Umeå University",
+    "interests": "Business and the environment, corporate-government relations, automotive and battery industry, sustainability transitions"
+  },
+  {
+    "location": "Paris, France",
+    "lat": 48.8588897,
+    "lon": 2.320041,
+    "count": 1,
+    "type": "individual",
+    "name": "François-Xavier de Vaujany",
+    "affiliation": "Université Paris Dauphine-PSL",
+    "interests": "Intersection between the history of management/administration & the history of digitality"
+  },
+  {
+    "location": "Moscow, Russia",
+    "lat": 55.625578,
+    "lon": 37.6063916,
+    "count": 1,
+    "type": "individual",
+    "name": "Ivan Dvoluchansky",
+    "affiliation": "Lomonosov Moscow State University",
+    "interests": "History of Management Thought and History of Management, Methodology and Research Approaches, Russian History of Management"
+  },
+  {
+    "location": "Buffalo, USA",
+    "lat": 42.8864163,
+    "lon": -78.8781493,
+    "count": 1,
+    "type": "individual",
+    "name": "Jason Russell",
+    "affiliation": "Empire State University",
+    "interests": "History of labor and management relations in Canada and the United States, history of management, labor and working-class history"
+  },
+  {
+    "location": "York, UK",
+    "lat": 53.9656579,
+    "lon": -1.0743052,
+    "count": 1,
+    "type": "individual",
+    "name": "Kevin Tennent",
+    "affiliation": "University of York",
+    "interests": "Governance and strategy in sport, transport and other industries; teaching of history in business schools"
+  },
+  {
+    "location": "Brussels, Belgium",
+    "lat": 50.8467372,
+    "lon": 4.352493,
+    "count": 1,
+    "type": "individual",
+    "name": "Matthijs Degraeve",
+    "affiliation": "Université Libre de Bruxelles",
+    "interests": "Small-scale business, artisans, construction, urban development, natural environment"
+  },
+  {
+    "location": "Bologna, Italy",
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "count": 1,
+    "type": "individual",
+    "name": "Luca Zan",
+    "affiliation": "University of Bologna",
+    "interests": "Management, Organizational & Accounting History; Management of Arts Organization"
+  },
+  {
+    "location": "Helsinki, Finland",
+    "lat": 60.1666204,
+    "lon": 24.9435408,
+    "count": 1,
+    "type": "individual",
+    "name": "Maiju Wuokko",
+    "affiliation": "University of Helsinki",
+    "interests": "Business interest associations, business power and influence, industrial relations, SMEs"
+  },
+  {
+    "location": "Alicante, Spain",
+    "lat": 38.3436365,
+    "lon": -0.4881708,
+    "count": 1,
+    "type": "individual",
+    "name": "Javier Vidal",
+    "affiliation": "Universidad de Alicante",
+    "interests": "Aviation business history; Transport business history; European Business History; Latin American Business History"
+  },
+  {
+    "location": "Lima, Peru",
+    "lat": -12.0459808,
+    "lon": -77.0305912,
+    "count": 1,
+    "type": "individual",
+    "name": "José Manuel Carrasco Weston",
+    "affiliation": "Universidad del Pacífico",
+    "interests": "Biographies of Entrepreneurs, Technology and business, Immigrant entrepreneurs, Documentary sources and archives for business history"
+  },
+  {
+    "location": "Orono, USA",
+    "lat": 44.883607,
+    "lon": -68.672791,
+    "count": 1,
+    "type": "individual",
+    "name": "Stefano Tijerina",
+    "affiliation": "University of Maine",
+    "interests": "international business, Canadian-US business relations, Canadian business expansion into the Americas, international political economy"
+  },
+  {
+    "location": "Philadelphia, USA",
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "count": 1,
+    "type": "individual",
+    "name": "Daniel Raff",
+    "affiliation": "University of Pennsylvania",
+    "interests": "Distribution sector, Manufacturing sector, histories of individual enterprises, business history methodology and historical explanation"
+  },
+  {
+    "location": "Rome, Italy",
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "count": 1,
+    "type": "individual",
+    "name": "Maria Padovan",
+    "affiliation": "University of Rome Tor Vergata",
+    "interests": "European integration; Nuclear industry; State-owned entreprises"
+  },
+  {
+    "location": "Oslo, Norway",
+    "lat": 59.9133301,
+    "lon": 10.7389701,
+    "count": 1,
+    "type": "individual",
+    "name": "Knut Sogner",
+    "affiliation": "BI Norwegian Business School",
+    "interests": "Corporate law & governance, innovation & entrepreneurship, family capitalism, industrial history"
+  },
+  {
+    "location": "Athens, USA",
+    "lat": 33.9597677,
+    "lon": -83.376398,
+    "count": 1,
+    "type": "individual",
+    "name": "Patrick Sheridan",
+    "affiliation": "University of Georgia",
+    "interests": "Railroads, industrialization, U.S. South, U.S. West"
+  },
+  {
+    "location": "Prague, Czech Republic",
+    "lat": 50.0874654,
+    "lon": 14.4212535,
+    "count": 1,
+    "type": "individual",
+    "name": "David Dolejsi",
+    "affiliation": "University of Economics in Prague",
+    "interests": "Craft guilds, Water mills, Early institutions"
+  },
+  {
+    "location": "Uxbridge, UK",
+    "lat": 51.5449509,
+    "lon": -0.4816672,
+    "count": 1,
+    "type": "individual",
+    "name": "Lewis Charles Smith",
+    "affiliation": "Brunel University of London",
+    "interests": "Marketing History, Public & Third Sector Business History"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.5975805,
+    "lon": -5.9277097,
+    "count": 1,
+    "type": "individual",
+    "name": "Victoria Barnes",
+    "affiliation": "Queen's University Belfast",
+    "interests": "Banks; corporate law; legal history"
+  },
+  {
+    "location": "Pretoria, South Africa",
+    "lat": -25.7459277,
+    "lon": 28.1879101,
+    "count": 1,
+    "type": "individual",
+    "name": "Catherine Le Roux",
+    "affiliation": "University of Pretoria",
+    "interests": "Sustainability and Strategy as a practice"
+  },
+  {
+    "location": "Lima, Peru",
+    "lat": -12.0459808,
+    "lon": -77.0305912,
+    "count": 1,
+    "type": "individual",
+    "name": "Beatriz Rodríguez-Satizábal",
+    "affiliation": "Universidad del Pacífico",
+    "interests": "Business Groups, Female entrepreneurship, Latin America, Micro, Small and Medium Enterprises"
+  },
+  {
+    "location": "Pittsburgh, USA",
+    "lat": 40.4406968,
+    "lon": -80.0025666,
+    "count": 1,
+    "type": "individual",
+    "name": "Sarvy Lotfi",
+    "affiliation": "Carnegie Mellon University",
+    "interests": ""
+  },
+  {
+    "location": "London, UK",
+    "lat": 51.5074456,
+    "lon": -0.1277653,
+    "count": 1,
+    "type": "individual",
+    "name": "Andreas Kornelakis",
+    "affiliation": "King's College London",
+    "interests": ""
+  },
+  {
+    "location": "Fredericton, Canada",
+    "lat": 45.9488278,
+    "lon": -66.6291827,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Ottawa, Canada",
+    "lat": 45.4208777,
+    "lon": -75.6901106,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Osaka, Japan",
+    "lat": 34.6937569,
+    "lon": 135.5014539,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Bonn, Germany",
+    "lat": 50.7352621,
+    "lon": 7.1024635,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Groningen, Netherlands",
+    "lat": 53.2190652,
+    "lon": 6.5680077,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Umeå, Sweden",
+    "lat": 63.8256568,
+    "lon": 20.2630745,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Moscow, Russia",
+    "lat": 55.625578,
+    "lon": 37.6063916,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Russia",
+    "lat": 61.5,
+    "lon": 105.3,
+    "count": 1,
+    "type": "country"
+  },
+  {
+    "location": "Buffalo, USA",
+    "lat": 42.8864163,
+    "lon": -78.8781493,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Brussels, Belgium",
+    "lat": 50.8467372,
+    "lon": 4.352493,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Bologna, Italy",
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Lima, Peru",
+    "lat": -12.0459808,
+    "lon": -77.0305912,
+    "count": 2,
+    "type": "city"
+  },
+  {
+    "location": "Orono, USA",
+    "lat": 44.883607,
+    "lon": -68.672791,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Philadelphia, USA",
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Athens, USA",
+    "lat": 33.9597677,
+    "lon": -83.376398,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Uxbridge, UK",
+    "lat": 51.5449509,
+    "lon": -0.4816672,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Pretoria, South Africa",
+    "lat": -25.7459277,
+    "lon": 28.1879101,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Pittsburgh, USA",
+    "lat": 40.4406968,
+    "lon": -80.0025666,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Stellenbosch, South Africa",
+    "lat": -33.934444,
+    "lon": 18.869167,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Chennai, India",
+    "lat": 13.0836939,
+    "lon": 80.270186,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Waltham, USA",
+    "lat": 42.3762385,
+    "lon": -71.2355644,
+    "count": 1,
+    "type": "city"
+  },
+  {
+    "location": "Mumbai, India",
+    "lat": 19.054999,
+    "lon": 72.8692035,
+    "count": 1,
+    "type": "city"
   }
 ]
