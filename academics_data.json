@@ -2682,7 +2682,7 @@
   },
   {
     "location": "Birmingham, UK",
-    "lat": 52.4862,
+    "lat": 52.4682,
     "lon": -1.8904,
     "count": 1,
     "type": "individual",
@@ -2691,8 +2691,58 @@
     "interests": "Arts organisations; Arts management; Historical Methods; Accounting & Accountability practices"
   },
   {
+    "location": "Birmingham, UK",
+    "lat": 52.4772,
+    "lon": -1.8648012,
+    "count": 1,
+    "type": "individual",
+    "name": "Manimuthu Arunmozhi",
+    "affiliation": "Aston University",
+    "interests": "Blockchain, AI, machine learning, network security, sustainable operations and information management, and supply-chain optimization."
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.4952,
+    "lon": -1.8648012,
+    "count": 1,
+    "type": "individual",
+    "name": "Stephanie Decker",
+    "affiliation": "FAcSS, FBAM, University of Birmingham (UK)",
+    "interests": "historical methods in management, multinationals, Africa, Ghana, Nigeria, archival research, digital sources"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.5042,
+    "lon": -1.8904,
+    "count": 1,
+    "type": "individual",
+    "name": "Elena Giovannoni",
+    "affiliation": "University of Birmingham",
+    "interests": "Critical and historical perspectives on calculative practices, materiality and Space"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.4952,
+    "lon": -1.9159988,
+    "count": 1,
+    "type": "individual",
+    "name": "Adam Nix",
+    "affiliation": "University of Birmingham",
+    "interests": "digital sources, organizational corruption, historical methods, responsible business, utilities, national industries"
+  },
+  {
+    "location": "Birmingham, UK",
+    "lat": 52.4772,
+    "lon": -1.9159988,
+    "count": 1,
+    "type": "individual",
+    "name": "Lucy Rabjohn",
+    "affiliation": "University of Birmingham",
+    "interests": "Consumer Behaviour, Food, Temporality, Memory"
+  },
+  {
     "location": "Oslo, Norway",
-    "lat": 59.8989,
+    "lat": 59.8809,
     "lon": 10.7322,
     "count": 1,
     "type": "individual",
@@ -2701,8 +2751,28 @@
     "interests": "management education and training; international business; history and management theory; regional development"
   },
   {
+    "location": "Oslo, Norway",
+    "lat": 59.9079,
+    "lon": 10.763282,
+    "count": 1,
+    "type": "individual",
+    "name": "Pål Nygaard",
+    "affiliation": "BI Norwegian Business School",
+    "interests": "Business History, History of management, organization studies, project studies"
+  },
+  {
+    "location": "Oslo, Norway",
+    "lat": 59.9079,
+    "lon": 10.701118,
+    "count": 1,
+    "type": "individual",
+    "name": "Knut Sogner",
+    "affiliation": "BI Norwegian Business School",
+    "interests": "Corporate la & governance, innovation & entrepreneurship, family capitalism, industrial history"
+  },
+  {
     "location": "Barcelona, Spain",
-    "lat": 41.3851,
+    "lat": 41.3671,
     "lon": 2.1534,
     "count": 1,
     "type": "individual",
@@ -2711,18 +2781,28 @@
     "interests": "Public-private relationships, industrial dynamics, agglomeration economies, political economy"
   },
   {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
+    "location": "Barcelona, Spain",
+    "lat": 41.3941,
+    "lon": 2.1741768,
     "count": 1,
     "type": "individual",
-    "name": "Manimuthu Arunmozhi",
-    "affiliation": "Aston University",
-    "interests": "Blockchain, AI, machine learning, network security, sustainable operations and information management, and supply-chain optimization."
+    "name": "Paloma Fernández Pérez",
+    "affiliation": "Universitat de Barcelona",
+    "interests": "Entrepreneurship; Networks; Family Businesses; Innovation; Internationalization; Grand Challenges (Health); Spain; Latin America"
+  },
+  {
+    "location": "Barcelona, Spain",
+    "lat": 41.3941,
+    "lon": 2.1326232,
+    "count": 1,
+    "type": "individual",
+    "name": "Xavier Jou-Badal",
+    "affiliation": "Universitat Pompeu Fabra",
+    "interests": "marketing, labour history, chocolate"
   },
   {
     "location": "Copenhagen, Denmark",
-    "lat": 55.6761,
+    "lat": 55.6581,
     "lon": 12.5483,
     "count": 1,
     "type": "individual",
@@ -2731,14 +2811,74 @@
     "interests": "Business history, maritime history, global history, historical network analysis"
   },
   {
+    "location": "Copenhagen, Denmark",
+    "lat": 55.6851,
+    "lon": 12.5759455,
+    "count": 1,
+    "type": "individual",
+    "name": "Camilla Ferri",
+    "affiliation": "Copenhagne Business School",
+    "interests": "Uses of the past, collective memory, materiality, craft, heritage"
+  },
+  {
+    "location": "Copenhagen, Denmark",
+    "lat": 55.6851,
+    "lon": 12.5206545,
+    "count": 1,
+    "type": "individual",
+    "name": "Christina Lubinski",
+    "affiliation": "Professor of Business History, Copenhagen Business School",
+    "interests": "Centre for Business History"
+  },
+  {
     "location": "Belfast, UK",
-    "lat": 54.6123,
+    "lat": 54.5943,
     "lon": -5.9501,
     "count": 1,
     "type": "individual",
     "name": "Victoria Barnes",
     "affiliation": "Queen’s University Belfast",
     "interests": "Banks; corporate law; legal history"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.6067377,
+    "lon": -5.9205389,
+    "count": 1,
+    "type": "individual",
+    "name": "Graham Brownlow",
+    "affiliation": "Queen's University Belfast",
+    "interests": "British and Irish topics, Institutional and Organizational economic approaches , Entrepreneurship and Rent-seeking, Business Failure, Pedagogy"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.6268623,
+    "lon": -5.9318302,
+    "count": 1,
+    "type": "individual",
+    "name": "Chris Colvin",
+    "affiliation": "Queen’s University Belfast",
+    "interests": "business history, economic history, financial history"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.6268623,
+    "lon": -5.9683698,
+    "count": 1,
+    "type": "individual",
+    "name": "Pallavi Padma-Uday",
+    "affiliation": "Queen's University Belfast",
+    "interests": "Entrepreneurship in emerging markets, Institutions and Institutional Change, Modern India"
+  },
+  {
+    "location": "Belfast, UK",
+    "lat": 54.6067377,
+    "lon": -5.9796611,
+    "count": 1,
+    "type": "individual",
+    "name": "John Turner",
+    "affiliation": "Professor at Queen's University Belfast",
+    "interests": "Financial and banking history"
   },
   {
     "location": "Linköping, Sweden",
@@ -2751,24 +2891,24 @@
     "interests": "Non-market strategy, State-owned enterprises, defense industrial enterprise,"
   },
   {
-    "location": "Belfast, UK",
-    "lat": 54.6123,
-    "lon": -5.9501,
-    "count": 1,
-    "type": "individual",
-    "name": "Graham Brownlow",
-    "affiliation": "Queen's University Belfast",
-    "interests": "British and Irish topics, Institutional and Organizational economic approaches , Entrepreneurship and Rent-seeking, Business Failure, Pedagogy"
-  },
-  {
     "location": "Sydney, Australia",
-    "lat": -33.8838,
+    "lat": -33.9018,
     "lon": 151.1893,
     "count": 1,
     "type": "individual",
     "name": "Kyle Bruce",
     "affiliation": "Wentworth Institute of Higher Education",
     "interests": "History of Management Thought"
+  },
+  {
+    "location": "Sydney, Australia",
+    "lat": -33.8658,
+    "lon": 151.1893,
+    "count": 1,
+    "type": "individual",
+    "name": "Claire Wright",
+    "affiliation": "University of Technology Sydney",
+    "interests": ""
   },
   {
     "location": "Lille, France",
@@ -2782,13 +2922,23 @@
   },
   {
     "location": "Lima, Peru",
-    "lat": -12.046,
+    "lat": -12.064,
     "lon": -77.043,
     "count": 1,
     "type": "individual",
     "name": "José Manuel Carrasco Weston",
     "affiliation": "Universidad del Pacífico",
     "interests": ""
+  },
+  {
+    "location": "Lima, Peru",
+    "lat": -12.028,
+    "lon": -77.043,
+    "count": 1,
+    "type": "individual",
+    "name": "Beatriz Rodríguez-Satizábal",
+    "affiliation": "Universidad del Pacífico",
+    "interests": "Business Groups, Female entrepreneurship, Latin America, Micro, Small and Medium Enterprises"
   },
   {
     "location": "Leeds, UK",
@@ -2809,16 +2959,6 @@
     "name": "Kristene E. Coller",
     "affiliation": "Southern Alberta Institute of Technology (SAIT)",
     "interests": "Management history, historiography, ANTi-History, Management Education"
-  },
-  {
-    "location": "Belfast, UK",
-    "lat": 54.6123,
-    "lon": -5.9501,
-    "count": 1,
-    "type": "individual",
-    "name": "Chris Colvin",
-    "affiliation": "Queen’s University Belfast",
-    "interests": "business history, economic history, financial history"
   },
   {
     "location": "Dundee, UK",
@@ -2842,7 +2982,7 @@
   },
   {
     "location": "Paris, France",
-    "lat": 48.8566,
+    "lat": 48.8386,
     "lon": 2.3522,
     "count": 1,
     "type": "individual",
@@ -2851,8 +2991,18 @@
     "interests": "Intersection between the history of management/administration & the history of digitality"
   },
   {
+    "location": "Paris, France",
+    "lat": 48.8746,
+    "lon": 2.3522,
+    "count": 1,
+    "type": "individual",
+    "name": "Matthieu Kwasniuk",
+    "affiliation": "Université Paris-Dauphine - PSL",
+    "interests": ""
+  },
+  {
     "location": "Halifax, Canada",
-    "lat": 44.6488,
+    "lat": 44.6308,
     "lon": -63.5752,
     "count": 1,
     "type": "individual",
@@ -2862,8 +3012,8 @@
   },
   {
     "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
+    "lat": 44.6375772,
+    "lon": -63.5554187,
     "count": 1,
     "type": "individual",
     "name": "Nicholous Deal",
@@ -2871,14 +3021,54 @@
     "interests": "Historiography, Historical Organization Studies, Critical Organizational History, History of Management Thought, and Management Learning and Education"
   },
   {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
+    "location": "Halifax, Canada",
+    "lat": 44.6528054,
+    "lon": -63.5505331,
     "count": 1,
     "type": "individual",
-    "name": "Stephanie Decker",
-    "affiliation": "FAcSS, FBAM, University of Birmingham (UK)",
-    "interests": "historical methods in management, multinationals, Africa, Ghana, Nigeria, archival research, digital sources"
+    "name": "Gabrielle Durepos",
+    "affiliation": "Mount Saint Vincent University",
+    "interests": "methodology; archives; museums"
+  },
+  {
+    "location": "Halifax, Canada",
+    "lat": 44.6650174,
+    "lon": -63.5642222,
+    "count": 1,
+    "type": "individual",
+    "name": "Christopher M. Hartt",
+    "affiliation": "Dalhousie University",
+    "interests": "Agricultural History, Airline History, Business School History, History of Business Theory/thought"
+  },
+  {
+    "location": "Halifax, Canada",
+    "lat": 44.6650174,
+    "lon": -63.5861778,
+    "count": 1,
+    "type": "individual",
+    "name": "Jean Helms Mills",
+    "affiliation": "Saint Mary's University",
+    "interests": "Archival research, gender, historiography"
+  },
+  {
+    "location": "Halifax, Canada",
+    "lat": 44.6528054,
+    "lon": -63.5998669,
+    "count": 1,
+    "type": "individual",
+    "name": "Albert J Mills",
+    "affiliation": "Saint Mary's University",
+    "interests": "archival research, historiography, gender"
+  },
+  {
+    "location": "Halifax, Canada",
+    "lat": 44.6375772,
+    "lon": -63.5949813,
+    "count": 1,
+    "type": "individual",
+    "name": "Heidi Weigand",
+    "affiliation": "Dalhousie University",
+    "interests": "Intersectionality and Indigenous Leadership"
   },
   {
     "location": "Brussels, Belgium",
@@ -2892,13 +3082,23 @@
   },
   {
     "location": "Prague, Czech Republic",
-    "lat": 50.0605,
+    "lat": 50.0425,
     "lon": 14.4178,
     "count": 1,
     "type": "individual",
     "name": "David Dolejsi",
     "affiliation": "University of Economics in Prague",
     "interests": "Craft guilds, Water mills, Early institutions"
+  },
+  {
+    "location": "Prague, Czech Republic",
+    "lat": 50.0785,
+    "lon": 14.4178,
+    "count": 1,
+    "type": "individual",
+    "name": "Lucie Mařanová",
+    "affiliation": "Prague University of Economics and Business, Faculty of Business Administration",
+    "interests": "Austria-Hungary, sugar manufacturers, textile manufacturers, business networks, 19th century"
   },
   {
     "location": "Osaka, Japan",
@@ -2909,16 +3109,6 @@
     "name": "Pierre-Yves Donzé",
     "affiliation": "Osaka University",
     "interests": "Creative industries, fashion, luxury, multinationals"
-  },
-  {
-    "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
-    "count": 1,
-    "type": "individual",
-    "name": "Gabrielle Durepos",
-    "affiliation": "Mount Saint Vincent University",
-    "interests": "methodology; archives; museums"
   },
   {
     "location": "Gaziantep, Turkey",
@@ -2942,7 +3132,7 @@
   },
   {
     "location": "Alicante, Spain",
-    "lat": 38.3302,
+    "lat": 38.3122,
     "lon": -0.501,
     "count": 1,
     "type": "individual",
@@ -2951,14 +3141,44 @@
     "interests": "Business History"
   },
   {
+    "location": "Alicante, Spain",
+    "lat": 38.3482,
+    "lon": -0.501,
+    "count": 1,
+    "type": "individual",
+    "name": "Javier Vidal",
+    "affiliation": "Universidad de Alicante",
+    "interests": "Aviation business history; Transport business history; European Business History; Latin American Business History"
+  },
+  {
     "location": "Jyväskylä, Finland",
-    "lat": 62.2576,
+    "lat": 62.2396,
     "lon": 25.7273,
     "count": 1,
     "type": "individual",
     "name": "Ville Eskelinen",
     "affiliation": "University of Jyväskylä/JSBE",
     "interests": "Family business, leadership, ideologies, succession, historical methods, qualitative research"
+  },
+  {
+    "location": "Jyväskylä, Finland",
+    "lat": 62.2666,
+    "lon": 25.7607878,
+    "count": 1,
+    "type": "individual",
+    "name": "Juha Kansikas",
+    "affiliation": "University of Jyväskylä, Finland",
+    "interests": "corporate governance, board professionals, power, class, business elite, family business, entrepreneurship"
+  },
+  {
+    "location": "Jyväskylä, Finland",
+    "lat": 62.2666,
+    "lon": 25.6938122,
+    "count": 1,
+    "type": "individual",
+    "name": "Christian Stutz",
+    "affiliation": "University of Jyväskylä",
+    "interests": "Historical organization studies, international business, business ethics, nonmarket strategy and geopolitics"
   },
   {
     "location": "Venice, Italy",
@@ -2969,26 +3189,6 @@
     "name": "Giovanni Favero",
     "affiliation": "Ca' Foscari University of Venice",
     "interests": "Organisational history, Historical methods, History of quantification"
-  },
-  {
-    "location": "Barcelona, Spain",
-    "lat": 41.3851,
-    "lon": 2.1534,
-    "count": 1,
-    "type": "individual",
-    "name": "Paloma Fernández Pérez",
-    "affiliation": "Universitat de Barcelona",
-    "interests": "Entrepreneurship; Networks; Family Businesses; Innovation; Internationalization; Grand Challenges (Health); Spain; Latin America"
-  },
-  {
-    "location": "Copenhagen, Denmark",
-    "lat": 55.6761,
-    "lon": 12.5483,
-    "count": 1,
-    "type": "individual",
-    "name": "Camilla Ferri",
-    "affiliation": "Copenhagne Business School",
-    "interests": "Uses of the past, collective memory, materiality, craft, heritage"
   },
   {
     "location": "Fredericton, Canada",
@@ -3022,7 +3222,7 @@
   },
   {
     "location": "York, UK",
-    "lat": 53.945,
+    "lat": 53.927,
     "lon": -1.1073,
     "count": 1,
     "type": "individual",
@@ -3031,14 +3231,14 @@
     "interests": "various"
   },
   {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
+    "location": "York, UK",
+    "lat": 53.963,
+    "lon": -1.1073,
     "count": 1,
     "type": "individual",
-    "name": "Elena Giovannoni",
-    "affiliation": "University of Birmingham",
-    "interests": "Critical and historical perspectives on calculative practices, materiality and Space"
+    "name": "Kevin Tennent",
+    "affiliation": "University of York",
+    "interests": "Governance and strategy in sport, transport and other industries; teaching of history in business schools"
   },
   {
     "location": "Brighton, UK",
@@ -3049,16 +3249,6 @@
     "name": "Andrew Godley",
     "affiliation": "University of Sussex",
     "interests": "Innovation, retailing, food"
-  },
-  {
-    "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
-    "count": 1,
-    "type": "individual",
-    "name": "Christopher M. Hartt",
-    "affiliation": "Dalhousie University",
-    "interests": "Agricultural History, Airline History, Business School History, History of Business Theory/thought"
   },
   {
     "location": "Sofia, Bulgaria",
@@ -3101,26 +3291,6 @@
     "interests": "Banking history; uses of the past; corporate archives; business strategy; corporate ethics; wrestling industry; video game industry; corporate sponsorship"
   },
   {
-    "location": "Barcelona, Spain",
-    "lat": 41.3851,
-    "lon": 2.1534,
-    "count": 1,
-    "type": "individual",
-    "name": "Xavier Jou-Badal",
-    "affiliation": "Universitat Pompeu Fabra",
-    "interests": "marketing, labour history, chocolate"
-  },
-  {
-    "location": "Jyväskylä, Finland",
-    "lat": 62.2576,
-    "lon": 25.7273,
-    "count": 1,
-    "type": "individual",
-    "name": "Juha Kansikas",
-    "affiliation": "University of Jyväskylä, Finland",
-    "interests": "corporate governance, board professionals, power, class, business elite, family business, entrepreneurship"
-  },
-  {
     "location": "London, UK",
     "lat": 51.5074,
     "lon": -0.1278,
@@ -3151,26 +3321,6 @@
     "interests": ""
   },
   {
-    "location": "Copenhagen, Denmark",
-    "lat": 55.6761,
-    "lon": 12.5483,
-    "count": 1,
-    "type": "individual",
-    "name": "Christina Lubinski",
-    "affiliation": "Professor of Business History, Copenhagen Business School",
-    "interests": "Centre for Business History"
-  },
-  {
-    "location": "Prague, Czech Republic",
-    "lat": 50.0605,
-    "lon": 14.4178,
-    "count": 1,
-    "type": "individual",
-    "name": "Lucie Mařanová",
-    "affiliation": "Prague University of Economics and Business, Faculty of Business Administration",
-    "interests": "Austria-Hungary, sugar manufacturers, textile manufacturers, business networks, 19th century"
-  },
-  {
     "location": "Ottawa, Canada",
     "lat": 45.421,
     "lon": -75.697,
@@ -3179,26 +3329,6 @@
     "name": "Cheryl Susan Mc Watters",
     "affiliation": "University of Ottawa",
     "interests": "Mercantilism, accounting practices, networks"
-  },
-  {
-    "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
-    "count": 1,
-    "type": "individual",
-    "name": "Jean Helms Mills",
-    "affiliation": "Saint Mary's University",
-    "interests": "Archival research, gender, historiography"
-  },
-  {
-    "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
-    "count": 1,
-    "type": "individual",
-    "name": "Albert J Mills",
-    "affiliation": "Saint Mary's University",
-    "interests": "archival research, historiography, gender"
   },
   {
     "location": "Charleston, USA",
@@ -3231,26 +3361,6 @@
     "interests": "History of science and technology, field emergence, occupations and technological change"
   },
   {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
-    "count": 1,
-    "type": "individual",
-    "name": "Adam Nix",
-    "affiliation": "University of Birmingham",
-    "interests": "digital sources, organizational corruption, historical methods, responsible business, utilities, national industries"
-  },
-  {
-    "location": "Oslo, Norway",
-    "lat": 59.8989,
-    "lon": 10.7322,
-    "count": 1,
-    "type": "individual",
-    "name": "Pål Nygaard",
-    "affiliation": "BI Norwegian Business School",
-    "interests": "Business History, History of management, organization studies, project studies"
-  },
-  {
     "location": "Umeå, Sweden",
     "lat": 63.825,
     "lon": 20.263,
@@ -3271,16 +3381,6 @@
     "interests": "Political economy, services, business government relations"
   },
   {
-    "location": "Belfast, UK",
-    "lat": 54.6123,
-    "lon": -5.9501,
-    "count": 1,
-    "type": "individual",
-    "name": "Pallavi Padma-Uday",
-    "affiliation": "Queen's University Belfast",
-    "interests": "Entrepreneurship in emerging markets, Institutions and Institutional Change, Modern India"
-  },
-  {
     "location": "Rome, Italy",
     "lat": 41.9028,
     "lon": 12.4964,
@@ -3292,13 +3392,33 @@
   },
   {
     "location": "Newcastle, UK",
-    "lat": 54.9933,
+    "lat": 54.9753,
     "lon": -1.6378,
     "count": 1,
     "type": "individual",
     "name": "Steven Pattinson",
     "affiliation": "Northumbria University",
     "interests": "Organizational strategy over time, phenomenological approaches to historical organization studies"
+  },
+  {
+    "location": "Newcastle, UK",
+    "lat": 55.0023,
+    "lon": -1.6106269,
+    "count": 1,
+    "type": "individual",
+    "name": "John F. Wilson",
+    "affiliation": "Northumbria University",
+    "interests": "Business History; Management History; Industrial History"
+  },
+  {
+    "location": "Newcastle, UK",
+    "lat": 55.0023,
+    "lon": -1.6649731,
+    "count": 1,
+    "type": "individual",
+    "name": "Nicholas D Wong",
+    "affiliation": "Senior Lecturer in Entrepreneurship, Newcastle Business School, Northumbria University",
+    "interests": "family business, historical entrepreneurship"
   },
   {
     "location": "Dunedin, New Zealand",
@@ -3311,16 +3431,6 @@
     "interests": "Business-government relations; Corporate political activity; Deindustrialisation; Deglobalisation; Globalisation; Energy, Industrial and Regional Policy"
   },
   {
-    "location": "Birmingham, UK",
-    "lat": 52.4862,
-    "lon": -1.8904,
-    "count": 1,
-    "type": "individual",
-    "name": "Lucy Rabjohn",
-    "affiliation": "University of Birmingham",
-    "interests": "Consumer Behaviour, Food, Temporality, Memory"
-  },
-  {
     "location": "Philadelphia, USA",
     "lat": 39.952,
     "lon": -75.165,
@@ -3329,16 +3439,6 @@
     "name": "Daniel Raff",
     "affiliation": "University of Pennsylvania",
     "interests": "Distribution sector, Manufacturing sector, histories of individual enterprises, business history methodology and historical explanation"
-  },
-  {
-    "location": "Lima, Peru",
-    "lat": -12.046,
-    "lon": -77.043,
-    "count": 1,
-    "type": "individual",
-    "name": "Beatriz Rodríguez-Satizábal",
-    "affiliation": "Universidad del Pacífico",
-    "interests": "Business Groups, Female entrepreneurship, Latin America, Micro, Small and Medium Enterprises"
   },
   {
     "location": "Sydney, Canada",
@@ -3391,16 +3491,6 @@
     "interests": "Marketing History, Public & Third Sector Business History"
   },
   {
-    "location": "Oslo, Norway",
-    "lat": 59.8989,
-    "lon": 10.7322,
-    "count": 1,
-    "type": "individual",
-    "name": "Knut Sogner",
-    "affiliation": "BI Norwegian Business School",
-    "interests": "Corporate la & governance, innovation & entrepreneurship, family capitalism, industrial history"
-  },
-  {
     "location": "New Haven, USA",
     "lat": 41.2933,
     "lon": -72.9479,
@@ -3411,34 +3501,24 @@
     "interests": "History of Organizations"
   },
   {
-    "location": "Jyväskylä, Finland",
-    "lat": 62.2576,
-    "lon": 25.7273,
-    "count": 1,
-    "type": "individual",
-    "name": "Christian Stutz",
-    "affiliation": "University of Jyväskylä",
-    "interests": "Historical organization studies, international business, business ethics, nonmarket strategy and geopolitics"
-  },
-  {
-    "location": "York, UK",
-    "lat": 53.945,
-    "lon": -1.1073,
-    "count": 1,
-    "type": "individual",
-    "name": "Kevin Tennent",
-    "affiliation": "University of York",
-    "interests": "Governance and strategy in sport, transport and other industries; teaching of history in business schools"
-  },
-  {
     "location": "Bogotá, Colombia",
-    "lat": 4.696,
+    "lat": 4.678,
     "lon": -74.0921,
     "count": 1,
     "type": "individual",
     "name": "Ulf Thoene",
     "affiliation": "Universidad de La Sabana",
     "interests": "Organizational History in South America"
+  },
+  {
+    "location": "Bogotá, Colombia",
+    "lat": 4.714,
+    "lon": -74.0921,
+    "count": 1,
+    "type": "individual",
+    "name": "Carlos Davila",
+    "affiliation": "Universidad de los Andes' School of Management",
+    "interests": ""
   },
   {
     "location": "Orono, USA",
@@ -3449,56 +3529,6 @@
     "name": "Stefano Tijerina",
     "affiliation": "University of Maine",
     "interests": "international business, Canadian-US business relations, Canadian business expansion into the Americas, international political economy"
-  },
-  {
-    "location": "Belfast, UK",
-    "lat": 54.6123,
-    "lon": -5.9501,
-    "count": 1,
-    "type": "individual",
-    "name": "John Turner",
-    "affiliation": "Professor at Queen's University Belfast",
-    "interests": "Financial and banking history"
-  },
-  {
-    "location": "Alicante, Spain",
-    "lat": 38.3302,
-    "lon": -0.501,
-    "count": 1,
-    "type": "individual",
-    "name": "Javier Vidal",
-    "affiliation": "Universidad de Alicante",
-    "interests": "Aviation business history; Transport business history; European Business History; Latin American Business History"
-  },
-  {
-    "location": "Halifax, Canada",
-    "lat": 44.6488,
-    "lon": -63.5752,
-    "count": 1,
-    "type": "individual",
-    "name": "Heidi Weigand",
-    "affiliation": "Dalhousie University",
-    "interests": "Intersectionality and Indigenous Leadership"
-  },
-  {
-    "location": "Newcastle, UK",
-    "lat": 54.9933,
-    "lon": -1.6378,
-    "count": 1,
-    "type": "individual",
-    "name": "John F. Wilson",
-    "affiliation": "Northumbria University",
-    "interests": "Business History; Management History; Industrial History"
-  },
-  {
-    "location": "Newcastle, UK",
-    "lat": 54.9933,
-    "lon": -1.6378,
-    "count": 1,
-    "type": "individual",
-    "name": "Nicholas D Wong",
-    "affiliation": "Senior Lecturer in Entrepreneurship, Newcastle Business School, Northumbria University",
-    "interests": "family business, historical entrepreneurship"
   },
   {
     "location": "Helsinki, Finland",
@@ -3531,26 +3561,6 @@
     "interests": "Management, Organizational & Accounting History; Management of Arts Organization"
   },
   {
-    "location": "Sydney, Australia",
-    "lat": -33.8838,
-    "lon": 151.1893,
-    "count": 1,
-    "type": "individual",
-    "name": "Claire Wright",
-    "affiliation": "University of Technology Sydney",
-    "interests": ""
-  },
-  {
-    "location": "Paris, France",
-    "lat": 48.8566,
-    "lon": 2.3522,
-    "count": 1,
-    "type": "individual",
-    "name": "Matthieu Kwasniuk",
-    "affiliation": "Université Paris-Dauphine - PSL",
-    "interests": ""
-  },
-  {
     "location": "Hays, USA",
     "lat": 38.879,
     "lon": -99.327,
@@ -3578,16 +3588,6 @@
     "type": "individual",
     "name": "Holly Swenson",
     "affiliation": "Northwestern University",
-    "interests": ""
-  },
-  {
-    "location": "Bogotá, Colombia",
-    "lat": 4.696,
-    "lon": -74.0921,
-    "count": 1,
-    "type": "individual",
-    "name": "Carlos Davila",
-    "affiliation": "Universidad de los Andes' School of Management",
     "interests": ""
   },
   {
