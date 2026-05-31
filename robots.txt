@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stephdeck.github.io/business-history-map/sitemap.xml

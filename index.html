@@ -3,8 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Business History Academics - Global Distribution (with Opt-In Details)</title>
-    
+
+    <!-- Primary SEO -->
+    <title>OHN Global Map – Business History Academics Worldwide</title>
+    <meta name="description" content="Interactive global map of researchers in business history, management history and organisational history. Find academics by country, university and research interests. Maintained by the Organizational History Network (OHN).">
+    <link rel="canonical" href="https://stephdeck.github.io/business-history-map/">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="OHN Global Map – Business History Academics Worldwide">
+    <meta property="og:description" content="Interactive map of 1,300+ researchers in business history, management history and organisational history across 57 countries.">
+    <meta property="og:url" content="https://stephdeck.github.io/business-history-map/">
+    <meta property="og:type" content="website">
+
+    <!-- Structured data: Dataset -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "OHN Global Map of Business and Management History Researchers",
+      "description": "Global distribution of academic researchers working in business history, management history and organisational history. Covers 57 countries and over 1,300 scholars.",
+      "url": "https://stephdeck.github.io/business-history-map/",
+      "creator": {
+        "@type": "Person",
+        "name": "Stephanie Decker",
+        "affiliation": "University of Birmingham"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Organizational History Network (OHN)"
+      },
+      "keywords": ["business history", "management history", "organisational history", "academic map", "global researchers", "OHN"],
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "temporalCoverage": "2026"
+    }
+    </script>
+
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
     
@@ -17,12 +50,37 @@
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            height: 100vh;
-            overflow: hidden;
         }
+
+        #map-wrapper {
+            position: relative;
+            height: 100vh;
+            width: 100%;
+        }
+
+        /* Static content below the map — visible on scroll, indexed by Google */
+        #about-section {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 48px 24px 64px;
+            color: #2c3e50;
+            line-height: 1.7;
+        }
+        #about-section h2 {
+            font-size: 20px;
+            font-weight: 700;
+            margin: 32px 0 10px;
+            color: #1a252f;
+        }
+        #about-section h2:first-child { margin-top: 0; }
+        #about-section p { font-size: 15px; color: #4a4a4a; margin-bottom: 12px; }
+        #about-section ul { font-size: 15px; color: #4a4a4a; padding-left: 20px; }
+        #about-section li { margin-bottom: 6px; }
+        #about-section a { color: #3498db; text-decoration: none; }
+        #about-section a:hover { text-decoration: underline; }
         
         #map {
-            height: 100vh;
+            height: 100%;
             width: 100%;
         }
         
@@ -167,6 +225,7 @@
     </style>
 </head>
 <body>
+<div id="map-wrapper">
     <div id="map"></div>
     
     <div class="info-panel">
@@ -202,6 +261,35 @@
         </div>
     </div>
     
+</div><!-- /map-wrapper -->
+
+<section id="about-section">
+    <h2>About This Map</h2>
+    <p>The OHN Global Map charts the worldwide distribution of academic researchers working in business history, management history, and organisational history. It is maintained by the <strong>Organizational History Network (OHN)</strong> and currently covers more than 1,300 scholars across 57 countries.</p>
+    <p>The map draws on self-submitted data from researchers, conference participant lists, and publicly available institutional information. It is updated regularly as new data is collected.</p>
+
+    <h2>How to Use This Resource</h2>
+    <p>Click any marker on the map to see the number of researchers at that location. Markers are colour-coded by volume: blue (small), orange (medium), red (large).</p>
+    <p><strong>Purple markers</strong> indicate individual researchers who have opted in to appear by name. Clicking a purple marker shows their name, university affiliation, and research interests.</p>
+
+    <h2>Opting In</h2>
+    <p>Researchers in business history, management history, and related fields are welcome to add their details to the map. The opt-in form linked on the map offers two options: anonymous inclusion (your location contributes to aggregate counts only) or named inclusion (your name, affiliation and research interests appear on a purple marker). You can also withdraw your information at any time via the same form.</p>
+
+    <h2>About the Organizational History Network (OHN)</h2>
+    <p>The OHN connects scholars working across business history, management history, accounting history, and the history of organisations. It supports interdisciplinary exchange and makes the global research community more visible. <a href="https://www.theohn.com/" rel="noopener">Visit the OHN website</a>.</p>
+
+    <h2>Data &amp; Privacy</h2>
+    <p>By default, the map displays only aggregate counts — no individual names or contact details. Individual researcher information is displayed only with explicit consent. Email addresses are never shown publicly. The underlying dataset is maintained in a secure spreadsheet held by the map's curator.</p>
+
+    <h2>Coverage</h2>
+    <ul>
+        <li>Over 1,300 researchers in the database</li>
+        <li>57 countries represented</li>
+        <li>Researchers in business history, management history, organisational history, accounting history, and related fields</li>
+        <li>Strong coverage of UK, USA, Italy, Spain, France, Sweden, Canada, Germany, Australia, Japan, and the Netherlands</li>
+    </ul>
+</section>
+
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
     
